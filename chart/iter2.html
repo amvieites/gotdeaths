@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="robots" content="noindex">
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+	<style>
+		body {margin: 0 0 0 0;}
+
+		svg .bar {
+		  fill: steelblue;
+		}
+
+		svg .bar:hover {
+		  fill: grey;
+		}
+
+		.axis text {
+		  font: 10px sans-serif;
+		}
+
+		.axis path,
+		.axis line {
+		  fill: none;
+		  stroke: #000;
+		  shape-rendering: crispEdges;
+		}
+
+		.dot {
+			fill: red;
+			fill-opacity: .3;
+
+		}
+		.label {
+			font: 10px sans-serif;
+			line-height: 10px;
+			display: block;
+		}
+	</style>
+</head>
+<body>
+<svg class="chart"></svg>
+<script>
+	var margin = {top: 50, right: 100, bottom: 50, left: 100},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+	var x = d3.scale.linear()
+				.range([0, width], .1);
+	var y = d3.scale.ordinal()
+			    .domain([
+			    	"House Stark",
+			    	"House Baratheon",
+			    	"House Lannister",
+			    	"The Night's Watch",
+			    	"House Targaryen",
+			    	"House Arryn",
+			    	"House Bolton",
+			    	"House Greyjoy",
+			    	"House Martell",
+			    	"Free Folk",
+			    	"Khal Drogo",
+			    	"The Thirteen",
+			    	"Other", ""]).rangePoints([0, height]);
+  var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+  var yAxis = d3.svg.axis().scale(y).orient("left");
+
+	// Tooltip
+  var tip = d3.tip()
+	  .attr('class', 'd3-tip')
+	  .offset([10, 0])
+	  .html(function(d) {
+	    return "<p class=\"label\">Character: " + d.name + "<br/>Episodes: " + d.episodes + "<br/>Episode: " + d.last_seen + "</p>";
+	  });
+
+	var chart = d3.select(".chart")
+	    .attr("width", width + margin.left + margin.right)
+	    .attr("height", height + margin.top + margin.bottom)
+	  .append("g")
+	    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+  chart.call(tip);
+
+	d3.tsv("gotdata.tsv", type, function(data) {
+			x = x.domain([0, d3.max(data, function(d) { return d.episode; })]);
+
+			chart.append("g")
+	      .attr("class", "x axis")
+	      .attr("transform", "translate(0," + height + ")")
+	      .call(xAxis);
+			chart.append("g")
+					.attr("class", "y axis")
+					.call(yAxis);
+
+
+			chart.selectAll(".dot")
+				.data(data).enter()
+					.append("svg:circle")
+					.attr("class", "dot")
+					.attr("cx", function(d) { return x(d.episode); })
+					.attr("cy", cy)
+					.attr("r", function(d) { return d.episodes; })
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide);
+	});
+
+function cy(d) {
+ return y(d.allegiance);
+  }
+function type(d) {
+  d.episode = +d.episode;
+  d.episodes = +d.episodes
+  return d;
+}
+</script>
+</body>
+</html>
