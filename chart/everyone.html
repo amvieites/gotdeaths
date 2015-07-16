@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta name="robots" content="noindex">
+	<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+	<style>
+		body {margin: 0 0 0 0;}
+
+		svg .square {
+		  fill: steelblue;
+		}
+
+		svg .square:hover {
+		  fill: grey;
+		}
+
+		.axis text {
+		  font: 10px sans-serif;
+		}
+
+		.axis path,
+		.axis line {
+		  fill: none;
+		  stroke: #000;
+		  shape-rendering: crispEdges;
+		}
+	</style>
+</head>
+<body>
+<svg class="chart"></svg>
+<script>
+	var margin = {top: 50, right: 100, bottom: 50, left: 200},
+    width = 1024 - margin.left - margin.right,
+    height = 5000 - margin.top - margin.bottom;
+
+	var x = d3.scale.ordinal()
+				.rangeRoundBands([0, width]);
+	var y = d3.scale.ordinal()
+    		.rangeRoundPoints([0, height]);
+	var color = d3.scale.category10();
+	var xAxis = d3.svg.axis()
+    .scale(x)
+    .orient("bottom");
+  var yAxis = d3.svg.axis()
+    .scale(y)
+    .orient("left")
+
+	var chart = d3.select(".chart")
+	    .attr("width", width + margin.left + margin.right)
+	    .attr("height", height + margin.top + margin.bottom)
+	  .append("g")
+	    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+	d3.tsv("everyone.tsv", type, function(data) {
+			x = x.domain(data.map(function (d){ return d.episode; }));
+			var yDomain = data.map(getName);
+			yDomain.push("");
+			y = y.domain(yDomain);
+
+			chart.append("g")
+	      .attr("class", "x axis")
+	      .attr("transform", "translate(0," + height + ")")
+	      .call(xAxis);
+			chart.append("g")
+					.attr("class", "y axis")
+					.call(yAxis);
+
+			chart.selectAll(".square")
+				.data(data).enter()
+					.append("rect")
+					.attr("class", "square")
+					.attr("y", function(d) { return y(d.character) - 6/2; })
+					.attr("x", function(d) { return x(d.episode); })
+					.attr("height", 6)
+					.attr("width", x.rangeBand() - 0.1)
+					.style("fill", function(d) { return color(d.allegiance); });
+	});
+
+function type(d) {
+  d.episode = +d.episode;
+  return d;
+}
+function getName(d) {
+	return d.character;
+}
+</script>
+</body>
+</html>
