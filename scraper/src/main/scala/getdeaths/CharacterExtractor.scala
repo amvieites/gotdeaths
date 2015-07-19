@@ -1,10 +1,10 @@
-import net.ruippeixotog.scalascraper.browser.Browser
+package getdeaths
 
+import net.ruippeixotog.scalascraper.browser.Browser
 import net.ruippeixotog.scalascraper.dsl.DSL.Extract._
 import net.ruippeixotog.scalascraper.dsl.DSL._
-import net.ruippeixotog.scalascraper.util.Validated._
 import org.jsoup.nodes.Element
-import org.jsoup.select.Elements
+
 import scala.collection.mutable
 import scala.collection.mutable.Map
 import scala.util.control.Breaks._

@@ -1,15 +1,5 @@
-import java.io.PrintStream
+package getdeaths
 
-import com.typesafe.config.ConfigFactory
-import net.ruippeixotog.scalascraper.browser.Browser
-import net.ruippeixotog.scalascraper.dsl.DSL.Extract._
-import net.ruippeixotog.scalascraper.dsl.DSL._
-import net.ruippeixotog.scalascraper.util.Validated._
-import org.jsoup.nodes.Element
-import org.jsoup.select.Elements
-
-
-import scala.collection.immutable.SortedMap
 /**
  * Created by Alex on 17/06/2015.
  */

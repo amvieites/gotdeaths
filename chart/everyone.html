@@ -8,11 +8,11 @@
 		body {margin: 0 0 0 0;}
 
 		svg .square {
-		  fill: steelblue;
+		  fill: orange;
 		}
 
 		svg .square:hover {
-		  fill: grey;
+		  fill: black;
 		}
 
 		.axis text {
@@ -22,8 +22,18 @@
 		.axis path,
 		.axis line {
 		  fill: none;
-		  stroke: #000;
+		  stroke: none;
 		  shape-rendering: crispEdges;
+		}
+		.season-line {
+			stroke-width: 0.3px;
+			stroke: red;
+		}
+		.tooltip {
+			background-color: orange;
+		  font: 10px sans-serif;
+		}
+		.tooltip text {
 		}
 	</style>
 </head>
@@ -32,12 +42,12 @@
 <script>
 	var margin = {top: 50, right: 100, bottom: 50, left: 200},
     width = 1024 - margin.left - margin.right,
-    height = 5000 - margin.top - margin.bottom;
+    height = 4750 - margin.top - margin.bottom;
 
 	var x = d3.scale.ordinal()
 				.rangeRoundBands([0, width]);
 	var y = d3.scale.ordinal()
-    		.rangeRoundPoints([0, height]);
+    		.rangeRoundBands([0, height]);
 	var color = d3.scale.category10();
 	var xAxis = d3.svg.axis()
     .scale(x)
@@ -51,13 +61,23 @@
 	    .attr("height", height + margin.top + margin.bottom)
 	  .append("g")
 	    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+	    function positioning() { 
+	    	return [this.getBBox().height+5, -this.getBBox().x]; 
+	    }
+var tip = d3.tip(positioning)
+  .attr('class', 'd3-tip')
+  .offset(positioning)
+  .html(function(d) {
+    return "<div class=\"tooltip\">&nbsp;</div>";
+  });
 
 	d3.tsv("everyone.tsv", type, function(data) {
-			x = x.domain(data.map(function (d){ return d.episode; }));
+			x = x.domain(data.map(function (d){ return d.episode; }).sort(
+				function(a, b){ return parseInt(a) - parseInt(b);}));
 			var yDomain = data.map(getName);
 			yDomain.push("");
 			y = y.domain(yDomain);
-
+chart.call(tip);
 			chart.append("g")
 	      .attr("class", "x axis")
 	      .attr("transform", "translate(0," + height + ")")
@@ -65,20 +85,29 @@
 			chart.append("g")
 					.attr("class", "y axis")
 					.call(yAxis);
+			chart.selectAll("season-line").data([11, 21, 31, 41])
+				.enter().append("line")
+				.attr("class", "season-line")
+					.attr("x1", function(d){ return x(d); })
+					.attr("y1", 0)
+					.attr("x2", function(d){ return x(d); })
+					.attr("y2", height - margin.top - margin.bottom);
 
 			chart.selectAll(".square")
 				.data(data).enter()
 					.append("rect")
 					.attr("class", "square")
-					.attr("y", function(d) { return y(d.character) - 6/2; })
+					.attr("y", function(d) { return y(d.character)+2; })
 					.attr("x", function(d) { return x(d.episode); })
-					.attr("height", 6)
-					.attr("width", x.rangeBand() - 0.1)
-					.style("fill", function(d) { return color(d.allegiance); });
+					.attr("height", y.rangeBand() - 4)
+					.attr("width", x.rangeBand() - 0.3)
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide);
 	});
 
 function type(d) {
-  d.episode = +d.episode;
+  d.episode = d.episode;
+  d.episodes = +d.episodes;
   return d;
 }
 function getName(d) {

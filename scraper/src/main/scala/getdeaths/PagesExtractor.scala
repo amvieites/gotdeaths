@@ -1,11 +1,10 @@
-import net.ruippeixotog.scalascraper.browser.Browser
-import org.jsoup.nodes.Document
-import org.jsoup.nodes.Element
-import org.jsoup.select.Elements
+package getdeaths
 
+import net.ruippeixotog.scalascraper.browser.Browser
 import net.ruippeixotog.scalascraper.dsl.DSL.Extract._
-import net.ruippeixotog.scalascraper.dsl.DSL._
 import net.ruippeixotog.scalascraper.dsl.DSL.Parse._
+import net.ruippeixotog.scalascraper.dsl.DSL._
+import org.jsoup.select.Elements
 /**
  * Created by Alex on 18/06/2015.
  */

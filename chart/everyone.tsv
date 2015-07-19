@@ -1,2192 +1,2211 @@
-character	allegiance	episode
-Eddard 'Ned' Stark	Unknown	1
-Robert Baratheon	Unknown	1
-Jaime Lannister	Unknown	1
-Catelyn Stark	Unknown	1
-Cersei Lannister	Unknown	1
-Daenerys Targaryen	Unknown	1
-Jorah Mormont	Unknown	1
-Viserys Targaryen	Unknown	1
-Jon Snow	Unknown	1
-Sansa Stark	Unknown	1
-Arya Stark	Unknown	1
-Robb Stark	Unknown	1
-Theon Greyjoy	Unknown	1
-Bran Stark	Unknown	1
-Joffrey Baratheon	Unknown	1
-Sandor 'The Hound' Clegane	Unknown	1
-Tyrion Lannister	Unknown	1
-Maester Luwin	Unknown	1
-Jory Cassel	Unknown	1
-Rodrik Cassel	Unknown	1
-Benjen Stark	Unknown	1
-Illyrio Mopatis	Unknown	1
-Qotho	Unknown	1
-Ros	Unknown	1
-Septa Mordane	Unknown	1
-Will	Unknown	1
-Jon Arryn	Unknown	1
-Waymar Royce	Unknown	1
-Gared	Unknown	1
-Rickon Stark	Unknown	1
-Tommen Baratheon	Unknown	1
-Myrcella Baratheon	Unknown	1
-Hodor	Unknown	1
-Pentoshi Servant	Unknown	1
-White Walker	Unknown	1
-Wildling Girl	Unknown	1
-Khal Drogo	Unknown	1
-Eddard 'Ned' Stark	Unknown	2
-Robert Baratheon	Unknown	2
-Jaime Lannister	Unknown	2
-Catelyn Stark	Unknown	2
-Cersei Lannister	Unknown	2
-Daenerys Targaryen	Unknown	2
-Jorah Mormont	Unknown	2
-Viserys Targaryen	Unknown	2
-Jon Snow	Unknown	2
-Sansa Stark	Unknown	2
-Arya Stark	Unknown	2
-Robb Stark	Unknown	2
-Theon Greyjoy	Unknown	2
-Bran Stark	Unknown	2
-Joffrey Baratheon	Unknown	2
-Sandor 'The Hound' Clegane	Unknown	2
-Tyrion Lannister	Unknown	2
-Maester Luwin	Unknown	2
-Jory Cassel	Unknown	2
-Rodrik Cassel	Unknown	2
-Benjen Stark	Unknown	2
-Doreah	Unknown	2
-Qotho	Unknown	2
-Irri	Unknown	2
-Jhiqui	Unknown	2
-Ilyn Payne	Unknown	2
-Mycah	Unknown	2
-Rast	Unknown	2
-Catspaw	Unknown	2
-Lannister Guardsman	Unknown	2
-Tommen Baratheon	Unknown	2
-Myrcella Baratheon	Unknown	2
-Khal Drogo	Unknown	2
-Eddard 'Ned' Stark	Unknown	3
-Robert Baratheon	Unknown	3
-Jaime Lannister	Unknown	3
-Catelyn Stark	Unknown	3
-Cersei Lannister	Unknown	3
-Daenerys Targaryen	Unknown	3
-Jorah Mormont	Unknown	3
-Petyr 'Littlefinger' Baelish	Unknown	3
-Viserys Targaryen	Unknown	3
-Jon Snow	Unknown	3
-Sansa Stark	Unknown	3
-Arya Stark	Unknown	3
-Bran Stark	Unknown	3
-Robb Stark	Unknown	3
-Joffrey Baratheon	Unknown	3
-Tyrion Lannister	Unknown	3
-Lord Varys	Unknown	3
-Jeor Mormont	Unknown	3
-Alliser Thorne	Unknown	3
-Jory Cassel	Unknown	3
-Barristan Selmy	Unknown	3
-Rodrik Cassel	Unknown	3
-Benjen Stark	Unknown	3
-Yoren	Unknown	3
-Grand Maester Pycelle	Unknown	3
-Renly Baratheon	Unknown	3
-Maester Aemon	Unknown	3
-Syrio Forel	Unknown	3
-Old Nan	Unknown	3
-Septa Mordane	Unknown	3
-King's Landing Page	Unknown	3
-Grenn	Unknown	3
-Pypar	Unknown	3
-Rast	Unknown	3
-Rakharo	Unknown	3
-Irri	Unknown	3
-Lancel Lannister	Unknown	3
-Drunk Patron (as Paul Portelli)	Unknown	3
-King's Landing Whore	Unknown	3
-Khal Drogo	Unknown	3
-Eddard 'Ned' Stark	Unknown	4
-Robert Baratheon	Unknown	4
-Jaime Lannister	Unknown	4
-Catelyn Stark	Unknown	4
-Cersei Lannister	Unknown	4
-Daenerys Targaryen	Unknown	4
-Jorah Mormont	Unknown	4
-Petyr 'Littlefinger' Baelish	Unknown	4
-Viserys Targaryen	Unknown	4
-Jon Snow	Unknown	4
-Sansa Stark	Unknown	4
-Arya Stark	Unknown	4
-Robb Stark	Unknown	4
-Theon Greyjoy	Unknown	4
-Bran Stark	Unknown	4
-Joffrey Baratheon	Unknown	4
-Sandor 'The Hound' Clegane	Unknown	4
-Tyrion Lannister	Unknown	4
-Maester Luwin	Unknown	4
-Lord Varys	Unknown	4
-Bronn	Unknown	4
-Alliser Thorne	Unknown	4
-Jory Cassel	Unknown	4
-Rodrik Cassel	Unknown	4
-Yoren	Unknown	4
-Barristan Selmy	Unknown	4
-Janos Slynt	Unknown	4
-Grand Maester Pycelle	Unknown	4
-Renly Baratheon	Unknown	4
-Marillion	Unknown	4
-Septa Mordane	Unknown	4
-Old Nan	Unknown	4
-Samwell Tarly	Unknown	4
-Grenn	Unknown	4
-Pypar	Unknown	4
-Rast	Unknown	4
-Gregor Clegane	Unknown	4
-Irri	Unknown	4
-Hodor	Unknown	4
-Doreah	Unknown	4
-Hugh of the Vale	Unknown	4
-Gendry	Unknown	4
-Tobho Mott	Unknown	4
-Tommen Baratheon	Unknown	4
-Myrcella Baratheon	Unknown	4
-Knight of House Bracken	Unknown	4
-Knight of House Frey	Unknown	4
-Knight of House Whent	Unknown	4
-Masha Heddie	Unknown	4
-Khal Drogo	Unknown	4
-Eddard 'Ned' Stark	Unknown	5
-Robert Baratheon	Unknown	5
-Jaime Lannister	Unknown	5
-Catelyn Stark	Unknown	5
-Cersei Lannister	Unknown	5
-Petyr 'Littlefinger' Baelish	Unknown	5
-Sansa Stark	Unknown	5
-Arya Stark	Unknown	5
-Theon Greyjoy	Unknown	5
-Bran Stark	Unknown	5
-Joffrey Baratheon	Unknown	5
-Sandor 'The Hound' Clegane	Unknown	5
-Tyrion Lannister	Unknown	5
-Maester Luwin	Unknown	5
-Lord Varys	Unknown	5
-Jory Cassel	Unknown	5
-Rodrik Cassel	Unknown	5
-Bronn	Unknown	5
-Yoren	Unknown	5
-Barristan Selmy	Unknown	5
-Lysa Arryn	Unknown	5
-Grand Maester Pycelle	Unknown	5
-Renly Baratheon	Unknown	5
-Illyrio Mopatis	Unknown	5
-Marillion	Unknown	5
-Loras Tyrell	Unknown	5
-Gregor Clegane	Unknown	5
-Mord	Unknown	5
-Septa Mordane	Unknown	5
-Ros	Unknown	5
-Hugh of the Vale	Unknown	5
-Robin Arryn	Unknown	5
-Vardis Egen	Unknown	5
-King's Landing Page	Unknown	5
-Gold Cloak	Unknown	5
-Knight of House Bracken	Unknown	5
-Lancel Lannister	Unknown	5
-Mhaegen	Unknown	5
-King's Landing Whore	Unknown	5
-Tommen Baratheon	Unknown	5
-Myrcella Baratheon	Unknown	5
-Eddard 'Ned' Stark	Unknown	6
-Robert Baratheon	Unknown	6
-Catelyn Stark	Unknown	6
-Cersei Lannister	Unknown	6
-Daenerys Targaryen	Unknown	6
-Jorah Mormont	Unknown	6
-Petyr 'Littlefinger' Baelish	Unknown	6
-Viserys Targaryen	Unknown	6
-Robb Stark	Unknown	6
-Sansa Stark	Unknown	6
-Arya Stark	Unknown	6
-Theon Greyjoy	Unknown	6
-Bran Stark	Unknown	6
-Joffrey Baratheon	Unknown	6
-Tyrion Lannister	Unknown	6
-Bronn	Unknown	6
-Rodrik Cassel	Unknown	6
-Barristan Selmy	Unknown	6
-Loras Tyrell	Unknown	6
-Lysa Arryn	Unknown	6
-Grand Maester Pycelle	Unknown	6
-Renly Baratheon	Unknown	6
-Marillion	Unknown	6
-Syrio Forel	Unknown	6
-Mord	Unknown	6
-Septa Mordane	Unknown	6
-Osha	Unknown	6
-Robin Arryn	Unknown	6
-Ros	Unknown	6
-Irri	Unknown	6
-Doreah	Unknown	6
-Hodor	Unknown	6
-Vardis Egen	Unknown	6
-Rakharo	Unknown	6
-Qotho	Unknown	6
-Lancel Lannister	Unknown	6
-Dothraki Old Crone	Unknown	6
-Riverlands Petitioner	Unknown	6
-Stiv	Unknown	6
-Knight of the Vale (as Patrick Rocks)	Unknown	6
-Older Knight of the Vale	Unknown	6
-Beric Dondarrion	Unknown	6
-Khal Drogo	Unknown	6
-Eddard 'Ned' Stark	Unknown	7
-Robert Baratheon	Unknown	7
-Jaime Lannister	Unknown	7
-Cersei Lannister	Unknown	7
-Daenerys Targaryen	Unknown	7
-Jorah Mormont	Unknown	7
-Petyr 'Littlefinger' Baelish	Unknown	7
-Jon Snow	Unknown	7
-Theon Greyjoy	Unknown	7
-Joffrey Baratheon	Unknown	7
-Sandor 'The Hound' Clegane	Unknown	7
-Maester Luwin	Unknown	7
-Lord Varys	Unknown	7
-Jeor Mormont	Unknown	7
-Alliser Thorne	Unknown	7
-Tywin Lannister	Unknown	7
-Barristan Selmy	Unknown	7
-Samwell Tarly	Unknown	7
-Maester Aemon	Unknown	7
-Grand Maester Pycelle	Unknown	7
-Renly Baratheon	Unknown	7
-Janos Slynt	Unknown	7
-Osha	Unknown	7
-Ros	Unknown	7
-Grenn	Unknown	7
-Pypar	Unknown	7
-Rast (as Luke McEwan)	Unknown	7
-Irri	Unknown	7
-Doreah	Unknown	7
-Rakharo	Unknown	7
-Qotho	Unknown	7
-King's Landing Page	Unknown	7
-Wine Merchant	Unknown	7
-Armeca	Unknown	7
-Varly	Unknown	7
-Othell Yarwyck	Unknown	7
-Jaremy Rykker	Unknown	7
-Night's Watch Officer	Unknown	7
-Tomard	Unknown	7
-Little Bird	Unknown	7
-Khal Drogo	Unknown	7
-Eddard 'Ned' Stark	Unknown	8
-Catelyn Stark	Unknown	8
-Cersei Lannister	Unknown	8
-Daenerys Targaryen	Unknown	8
-Jorah Mormont	Unknown	8
-Petyr 'Littlefinger' Baelish	Unknown	8
-Jon Snow	Unknown	8
-Robb Stark	Unknown	8
-Sansa Stark	Unknown	8
-Arya Stark	Unknown	8
-Theon Greyjoy	Unknown	8
-Bran Stark	Unknown	8
-Joffrey Baratheon	Unknown	8
-Sandor 'The Hound' Clegane	Unknown	8
-Tyrion Lannister	Unknown	8
-Maester Luwin	Unknown	8
-Lord Varys	Unknown	8
-Bronn	Unknown	8
-Jeor Mormont	Unknown	8
-Alliser Thorne	Unknown	8
-Rodrik Cassel	Unknown	8
-Tywin Lannister	Unknown	8
-Barristan Selmy	Unknown	8
-Samwell Tarly	Unknown	8
-Grand Maester Pycelle	Unknown	8
-Syrio Forel	Unknown	8
-Lysa Arryn	Unknown	8
-Janos Slynt	Unknown	8
-Osha	Unknown	8
-Septa Mordane	Unknown	8
-Greatjon Umber	Unknown	8
-Grenn	Unknown	8
-Pypar	Unknown	8
-Rast (as Luke McEwan)	Unknown	8
-Shagga	Unknown	8
-Mirri Maz Duur	Unknown	8
-Irri	Unknown	8
-Doreah	Unknown	8
-Hodor	Unknown	8
-Rakharo	Unknown	8
-Qotho	Unknown	8
-King's Landing Page	Unknown	8
-Kevan Lannister	Unknown	8
-Robin Arryn	Unknown	8
-Rickon Stark	Unknown	8
-Meryn Trant	Unknown	8
-Lannister Messenger	Unknown	8
-Steward of House Stark	Unknown	8
-Night's Watch Brother	Unknown	8
-Othell Yarwyck	Unknown	8
-Lannister Scout	Unknown	8
-Stark Guard	Unknown	8
-Stable Boy	Unknown	8
-Khal Drogo	Unknown	8
-Eddard 'Ned' Stark	Unknown	9
-Catelyn Stark	Unknown	9
-Jaime Lannister	Unknown	9
-Cersei Lannister	Unknown	9
-Daenerys Targaryen	Unknown	9
-Jorah Mormont	Unknown	9
-Petyr 'Littlefinger' Baelish	Unknown	9
-Jon Snow	Unknown	9
-Robb Stark	Unknown	9
-Sansa Stark	Unknown	9
-Arya Stark	Unknown	9
-Theon Greyjoy	Unknown	9
-Joffrey Baratheon	Unknown	9
-Sandor 'The Hound' Clegane	Unknown	9
-Tyrion Lannister	Unknown	9
-Lord Varys	Unknown	9
-Bronn	Unknown	9
-Jeor Mormont	Unknown	9
-Rodrik Cassel	Unknown	9
-Tywin Lannister	Unknown	9
-Yoren	Unknown	9
-Samwell Tarly	Unknown	9
-Grand Maester Pycelle	Unknown	9
-Maester Aemon	Unknown	9
-Shae	Unknown	9
-Walder Frey	Unknown	9
-Greatjon Umber	Unknown	9
-Ilyn Payne	Unknown	9
-Grenn	Unknown	9
-Pypar	Unknown	9
-Rast (as Luke McEwan)	Unknown	9
-Shagga	Unknown	9
-Mirri Maz Duur	Unknown	9
-Irri	Unknown	9
-Doreah	Unknown	9
-Rakharo	Unknown	9
-Qotho	Unknown	9
-Kevan Lannister	Unknown	9
-King's Landing Baker	Unknown	9
-Night's Watchman	Unknown	9
-Stevron Frey	Unknown	9
-Black Walder Rivers	Unknown	9
-King's Landing Urchin	Unknown	9
-Khal Drogo	Unknown	9
-Eddard 'Ned' Stark (credit only)	Unknown	10
-Catelyn Stark	Unknown	10
-Jaime Lannister	Unknown	10
-Cersei Lannister	Unknown	10
-Daenerys Targaryen	Unknown	10
-Jorah Mormont	Unknown	10
-Petyr 'Littlefinger' Baelish	Unknown	10
-Jon Snow	Unknown	10
-Robb Stark	Unknown	10
-Sansa Stark	Unknown	10
-Arya Stark	Unknown	10
-Theon Greyjoy	Unknown	10
-Bran Stark	Unknown	10
-Joffrey Baratheon	Unknown	10
-Sandor 'The Hound' Clegane	Unknown	10
-Tyrion Lannister	Unknown	10
-Maester Luwin	Unknown	10
-Lord Varys	Unknown	10
-Bronn (credit only)	Unknown	10
-Jeor Mormont	Unknown	10
-Rodrik Cassel	Unknown	10
-Tywin Lannister	Unknown	10
-Yoren	Unknown	10
-Samwell Tarly	Unknown	10
-Grand Maester Pycelle	Unknown	10
-Marillion	Unknown	10
-Shae	Unknown	10
-Osha	Unknown	10
-Ros	Unknown	10
-Greatjon Umber	Unknown	10
-Ilyn Payne	Unknown	10
-Grenn	Unknown	10
-Pypar	Unknown	10
-Mirri Maz Duur	Unknown	10
-Irri	Unknown	10
-Rakharo	Unknown	10
-Kevan Lannister	Unknown	10
-Hodor	Unknown	10
-Lancel Lannister	Unknown	10
-Gendry	Unknown	10
-Hot Pie	Unknown	10
-Lommy Greenhands	Unknown	10
-Rickon Stark	Unknown	10
-Meryn Trant	Unknown	10
-Rickard Karstark (as Steven Blount)	Unknown	10
-Jonos Bracken	Unknown	10
-Leo Lefford (as Vincent McCabe)	Unknown	10
-Addam Marbrand (as BJ Hogg)	Unknown	10
-Stark Guard	Unknown	10
-Khal Drogo	Unknown	10
-Tyrion Lannister	Unknown	11
-Cersei Lannister	Unknown	11
-Jaime Lannister	Unknown	11
-Catelyn Stark	Unknown	11
-Daenerys Targaryen	Unknown	11
-Petyr 'Littlefinger' Baelish	Unknown	11
-Jorah Mormont	Unknown	11
-Jon Snow	Unknown	11
-Davos Seaworth	Unknown	11
-Bran Stark	Unknown	11
-Robb Stark	Unknown	11
-Sansa Stark	Unknown	11
-Arya Stark	Unknown	11
-Theon Greyjoy	Unknown	11
-Samwell Tarly	Unknown	11
-Joffrey Baratheon	Unknown	11
-Sandor 'The Hound' Clegane	Unknown	11
-Stannis Baratheon	Unknown	11
-Melisandre	Unknown	11
-Jeor Mormont	Unknown	11
-Bronn	Unknown	11
-Lord Varys	Unknown	11
-Shae	Unknown	11
-Maester Luwin	Unknown	11
-Rodrik Cassel	Unknown	11
-Grand Maester Pycelle	Unknown	11
-Craster	Unknown	11
-Osha	Unknown	11
-Maester Cressen	Unknown	11
-Grenn	Unknown	11
-Eddison Tollett	Unknown	11
-Gendry	Unknown	11
-Hot Pie	Unknown	11
-Lommy Greenhands	Unknown	11
-Doreah	Unknown	11
-Irri	Unknown	11
-Rakharo	Unknown	11
-Kovarro	Unknown	11
-Hodor	Unknown	11
-Ros	Unknown	11
-Janos Slynt	Unknown	11
-Matthos Seaworth	Unknown	11
-Dontos Hollard	Unknown	11
-Gilly	Unknown	11
-Alton Lannister	Unknown	11
-Meryn Trant	Unknown	11
-Northern Lord	Unknown	11
-Armeca	Unknown	11
-Daisy	Unknown	11
-Mhaegen	Unknown	11
-Myrcella Baratheon	Unknown	11
-Tommen Baratheon	Unknown	11
-Tobho Mott	Unknown	11
-Chella (as Natalie Lee)	Unknown	11
-Lord Portan	Unknown	11
-Melee Herald	Unknown	11
-Marei	Unknown	11
-Male Prostitute	Unknown	11
-Tyrion Lannister	Unknown	12
-Cersei Lannister	Unknown	12
-Daenerys Targaryen	Unknown	12
-Petyr 'Littlefinger' Baelish	Unknown	12
-Jorah Mormont	Unknown	12
-Jon Snow	Unknown	12
-Davos Seaworth	Unknown	12
-Theon Greyjoy	Unknown	12
-Arya Stark	Unknown	12
-Stannis Baratheon	Unknown	12
-Melisandre	Unknown	12
-Bronn	Unknown	12
-Lord Varys	Unknown	12
-Samwell Tarly	Unknown	12
-Shae	Unknown	12
-Grand Maester Pycelle	Unknown	12
-Craster	Unknown	12
-Balon Greyjoy	Unknown	12
-Yoren	Unknown	12
-Janos Slynt	Unknown	12
-Jaqen H'ghar	Unknown	12
-Gendry	Unknown	12
-Grenn	Unknown	12
-Eddison Tollett	Unknown	12
-Doreah	Unknown	12
-Irri	Unknown	12
-Kovarro	Unknown	12
-Hot Pie	Unknown	12
-Lommy Greenhands	Unknown	12
-Ros	Unknown	12
-Rorge	Unknown	12
-Yara Greyjoy	Unknown	12
-Matthos Seaworth	Unknown	12
-Salladhor Saan	Unknown	12
-Gilly	Unknown	12
-Alton Lannister	Unknown	12
-Captain's Daughter	Unknown	12
-Armeca	Unknown	12
-Lordsport Dockhand	Unknown	12
-Biter	Unknown	12
-Podrick Payne	Unknown	12
-White Walker	Unknown	12
-Gold Cloak	Unknown	12
-Customer	Unknown	12
-Marei	Unknown	12
-Male Prostitute	Unknown	12
-Tyrion Lannister	Unknown	13
-Cersei Lannister	Unknown	13
-Catelyn Stark	Unknown	13
-Petyr 'Littlefinger' Baelish	Unknown	13
-Jon Snow	Unknown	13
-Theon Greyjoy	Unknown	13
-Bran Stark	Unknown	13
-Sansa Stark	Unknown	13
-Arya Stark	Unknown	13
-Samwell Tarly	Unknown	13
-Margaery Tyrell	Unknown	13
-Jeor Mormont	Unknown	13
-Bronn	Unknown	13
-Lord Varys	Unknown	13
-Shae	Unknown	13
-Maester Luwin	Unknown	13
-Grand Maester Pycelle	Unknown	13
-Craster	Unknown	13
-Balon Greyjoy	Unknown	13
-Yoren	Unknown	13
-Renly Baratheon	Unknown	13
-Gendry	Unknown	13
-Jaqen H'ghar	Unknown	13
-Brienne of Tarth	Unknown	13
-Loras Tyrell	Unknown	13
-Hot Pie	Unknown	13
-Lommy Greenhands	Unknown	13
-Yara Greyjoy	Unknown	13
-Hodor	Unknown	13
-Gilly	Unknown	13
-Amory Lorch	Unknown	13
-Polliver	Unknown	13
-Rorge	Unknown	13
-Biter	Unknown	13
-Drowned Priest	Unknown	13
-Myrcella Baratheon	Unknown	13
-Tommen Baratheon	Unknown	13
-Daisy	Unknown	13
-Timett	Unknown	13
-Gerald	Unknown	13
-Baratheon Guard	Unknown	13
-Gold Cloak	Unknown	13
-Tyrion Lannister	Unknown	14
-Catelyn Stark	Unknown	14
-Daenerys Targaryen	Unknown	14
-Petyr 'Littlefinger' Baelish	Unknown	14
-Jorah Mormont	Unknown	14
-Tywin Lannister	Unknown	14
-Davos Seaworth	Unknown	14
-Joffrey Baratheon	Unknown	14
-Robb Stark	Unknown	14
-Sansa Stark	Unknown	14
-Arya Stark	Unknown	14
-Stannis Baratheon	Unknown	14
-Melisandre	Unknown	14
-Margaery Tyrell	Unknown	14
-Bronn	Unknown	14
-Sandor 'The Hound' Clegane	Unknown	14
-Renly Baratheon	Unknown	14
-Spice King	Unknown	14
-Xaro Xhoan Daxos	Unknown	14
-Roose Bolton	Unknown	14
-Gendry	Unknown	14
-Lancel Lannister	Unknown	14
-Talisa Maegyr	Unknown	14
-Brienne of Tarth	Unknown	14
-Pyat Pree	Unknown	14
-Doreah	Unknown	14
-Irri	Unknown	14
-Kovarro	Unknown	14
-Hot Pie	Unknown	14
-Loras Tyrell	Unknown	14
-Ros	Unknown	14
-Gregor Clegane	Unknown	14
-Meryn Trant	Unknown	14
-Dontos Hollard	Unknown	14
-Tickler	Unknown	14
-Lannister Guard	Unknown	14
-Rennick	Unknown	14
-Polliver	Unknown	14
-Daisy	Unknown	14
-Old Woman Prisoner	Unknown	14
-Amory Lorch	Unknown	14
-Wounded Lannister	Unknown	14
-Tortured Prisoner	Unknown	14
-Silk King	Unknown	14
-Tyrion Lannister	Unknown	15
-Cersei Lannister	Unknown	15
-Catelyn Stark	Unknown	15
-Daenerys Targaryen	Unknown	15
-Petyr 'Littlefinger' Baelish	Unknown	15
-Jorah Mormont	Unknown	15
-Jon Snow	Unknown	15
-Tywin Lannister	Unknown	15
-Davos Seaworth	Unknown	15
-Theon Greyjoy	Unknown	15
-Samwell Tarly	Unknown	15
-Bran Stark	Unknown	15
-Arya Stark	Unknown	15
-Stannis Baratheon	Unknown	15
-Margaery Tyrell	Unknown	15
-Jeor Mormont	Unknown	15
-Bronn	Unknown	15
-Maester Luwin	Unknown	15
-Hallyne	Unknown	15
-Rodrik Cassel	Unknown	15
-Brienne of Tarth	Unknown	15
-Osha (as Natalie Tena)	Unknown	15
-Renly Baratheon	Unknown	15
-Pyat Pree	Unknown	15
-Jaqen H'ghar	Unknown	15
-Gendry	Unknown	15
-Lancel Lannister	Unknown	15
-Qhorin Halfhand	Unknown	15
-Grenn	Unknown	15
-Loras Tyrell	Unknown	15
-Eddison Tollett	Unknown	15
-Doreah	Unknown	15
-Irri	Unknown	15
-Kovarro	Unknown	15
-Xaro Xhoan Daxos	Unknown	15
-Yara Greyjoy	Unknown	15
-Hodor	Unknown	15
-Hot Pie	Unknown	15
-Dagmer Cleftjaw	Unknown	15
-Lorren	Unknown	15
-Amory Lorch	Unknown	15
-Protestor (as Edward Tudor Pole)	Unknown	15
-Quaithe	Unknown	15
-Reginald Lannister (as Patrick Fitzsymons)	Unknown	15
-Rickon Stark	Unknown	15
-Myrcella Baratheon	Unknown	15
-Tickler	Unknown	15
-Winterfell Farmer	Unknown	15
-Quartheen Woman	Unknown	15
-Silk King	Unknown	15
-Tyrion Lannister	Unknown	16
-Cersei Lannister	Unknown	16
-Catelyn Stark	Unknown	16
-Daenerys Targaryen	Unknown	16
-Petyr 'Littlefinger' Baelish	Unknown	16
-Jon Snow	Unknown	16
-Tywin Lannister	Unknown	16
-Bran Stark	Unknown	16
-Robb Stark	Unknown	16
-Sansa Stark	Unknown	16
-Arya Stark	Unknown	16
-Theon Greyjoy	Unknown	16
-Joffrey Baratheon	Unknown	16
-Shae	Unknown	16
-Sandor 'The Hound' Clegane	Unknown	16
-Maester Luwin	Unknown	16
-Rodrik Cassel	Unknown	16
-Osha	Unknown	16
-Roose Bolton	Unknown	16
-Xaro Xhoan Daxos	Unknown	16
-Spice King	Unknown	16
-Jaqen H'ghar	Unknown	16
-Ygritte	Unknown	16
-Brienne of Tarth	Unknown	16
-Talisa Maegyr	Unknown	16
-Qhorin Halfhand	Unknown	16
-Dagmer Cleftjaw	Unknown	16
-Meryn Trant	Unknown	16
-Amory Lorch	Unknown	16
-Lorren	Unknown	16
-Irri	Unknown	16
-Hodor	Unknown	16
-Kovarro	Unknown	16
-High Septon	Unknown	16
-Farlen	Unknown	16
-Drennan	Unknown	16
-Myrcella Baratheon	Unknown	16
-Rickon Stark	Unknown	16
-Tommen Baratheon	Unknown	16
-Rioter	Unknown	16
-Lannister Captain	Unknown	16
-Rioter	Unknown	16
-Rioter	Unknown	16
-Jacks	Unknown	16
-Quent	Unknown	16
-Tyrion Lannister	Unknown	17
-Cersei Lannister	Unknown	17
-Jaime Lannister	Unknown	17
-Catelyn Stark	Unknown	17
-Daenerys Targaryen	Unknown	17
-Jorah Mormont	Unknown	17
-Jon Snow	Unknown	17
-Tywin Lannister	Unknown	17
-Bran Stark	Unknown	17
-Robb Stark	Unknown	17
-Sansa Stark	Unknown	17
-Arya Stark	Unknown	17
-Theon Greyjoy	Unknown	17
-Shae	Unknown	17
-Sandor 'The Hound' Clegane	Unknown	17
-Maester Luwin	Unknown	17
-Pyat Pree	Unknown	17
-Spice King	Unknown	17
-Xaro Xhoan Daxos	Unknown	17
-Osha	Unknown	17
-Roose Bolton	Unknown	17
-Ygritte	Unknown	17
-Brienne of Tarth	Unknown	17
-Talisa Maegyr	Unknown	17
-Dagmer Cleftjaw	Unknown	17
-Quaithe	Unknown	17
-Rickard Karstark	Unknown	17
-Alton Lannister	Unknown	17
-Lorren	Unknown	17
-Hodor	Unknown	17
-Kovarro	Unknown	17
-Gregor Clegane	Unknown	17
-Rickon Stark	Unknown	17
-Winterfell Farmer	Unknown	17
-Handmaid	Unknown	17
-Theon's Master of Hounds	Unknown	17
-Silk King	Unknown	17
-Torrhen Karstark	Unknown	17
-Karstark Soldier #1	Unknown	17
-Farlen	Unknown	17
-Drennan	Unknown	17
-Jacks	Unknown	17
-Karstark Soldier #2	Unknown	17
-Stark Guard (as David Sheenan)	Unknown	17
-Quent	Unknown	17
-Rioter	Unknown	17
-Tyrion Lannister	Unknown	18
-Cersei Lannister	Unknown	18
-Jaime Lannister	Unknown	18
-Catelyn Stark	Unknown	18
-Daenerys Targaryen	Unknown	18
-Jorah Mormont	Unknown	18
-Jon Snow	Unknown	18
-Tywin Lannister	Unknown	18
-Davos Seaworth	Unknown	18
-Joffrey Baratheon	Unknown	18
-Bran Stark	Unknown	18
-Robb Stark	Unknown	18
-Arya Stark	Unknown	18
-Theon Greyjoy	Unknown	18
-Samwell Tarly	Unknown	18
-Stannis Baratheon	Unknown	18
-Shae	Unknown	18
-Bronn	Unknown	18
-Lord Varys	Unknown	18
-Maester Luwin	Unknown	18
-Osha	Unknown	18
-Talisa Maegyr	Unknown	18
-Roose Bolton	Unknown	18
-Jaqen H'ghar	Unknown	18
-Ygritte	Unknown	18
-Qhorin Halfhand	Unknown	18
-Yara Greyjoy	Unknown	18
-Gendry	Unknown	18
-Brienne of Tarth	Unknown	18
-Dagmer Cleftjaw	Unknown	18
-Kevan Lannister	Unknown	18
-Rickard Karstark	Unknown	18
-Grenn	Unknown	18
-Eddison Tollett	Unknown	18
-Hot Pie	Unknown	18
-Ros	Unknown	18
-Rorge	Unknown	18
-Kovarro	Unknown	18
-Rattleshirt	Unknown	18
-Hodor	Unknown	18
-Biter	Unknown	18
-Rickon Stark	Unknown	18
-Podrick Payne	Unknown	18
-Gregor Clegane	Unknown	18
-Matthos Seaworth	Unknown	18
-Stark Messenger	Unknown	18
-Lannister Torturer	Unknown	18
-Stark Guard (as David Sheenan)	Unknown	18
-Lannister Captain	Unknown	18
-Lannister Soldier	Unknown	18
-Tyrion Lannister	Unknown	19
-Cersei Lannister	Unknown	19
-Tywin Lannister	Unknown	19
-Davos Seaworth	Unknown	19
-Joffrey Baratheon	Unknown	19
-Sansa Stark	Unknown	19
-Sandor 'The Hound' Clegane	Unknown	19
-Stannis Baratheon	Unknown	19
-Bronn	Unknown	19
-Lord Varys	Unknown	19
-Shae	Unknown	19
-Hallyne	Unknown	19
-Grand Maester Pycelle	Unknown	19
-Lancel Lannister	Unknown	19
-Matthos Seaworth	Unknown	19
-Loras Tyrell	Unknown	19
-Armeca	Unknown	19
-Dontos Hollard	Unknown	19
-Ilyn Payne	Unknown	19
-Singing Lannister Soldier	Unknown	19
-Tommen Baratheon	Unknown	19
-Podrick Payne	Unknown	19
-Imry Florent (as Gordan Mahon)	Unknown	19
-Mandon Moore	Unknown	19
-Baratheon Officer	Unknown	19
-Captain of the Archers	Unknown	19
-Tyrion Lannister	Unknown	20
-Cersei Lannister	Unknown	20
-Jaime Lannister	Unknown	20
-Catelyn Stark	Unknown	20
-Daenerys Targaryen	Unknown	20
-Petyr 'Littlefinger' Baelish	Unknown	20
-Jorah Mormont	Unknown	20
-Jon Snow	Unknown	20
-Tywin Lannister	Unknown	20
-Robb Stark	Unknown	20
-Bran Stark	Unknown	20
-Sansa Stark	Unknown	20
-Arya Stark	Unknown	20
-Theon Greyjoy	Unknown	20
-Samwell Tarly	Unknown	20
-Joffrey Baratheon	Unknown	20
-Margaery Tyrell	Unknown	20
-Stannis Baratheon	Unknown	20
-Melisandre	Unknown	20
-Lord Varys	Unknown	20
-Shae	Unknown	20
-Maester Luwin	Unknown	20
-Grand Maester Pycelle	Unknown	20
-Pyat Pree	Unknown	20
-Osha	Unknown	20
-Jaqen H'ghar	Unknown	20
-Qhorin Halfhand	Unknown	20
-Brienne of Tarth	Unknown	20
-Ygritte	Unknown	20
-Xaro Xhoan Daxos	Unknown	20
-Gendry	Unknown	20
-Talisa Maegyr	Unknown	20
-Ros	Unknown	20
-Loras Tyrell	Unknown	20
-Grenn	Unknown	20
-Eddison Tollett	Unknown	20
-Hot Pie	Unknown	20
-Dagmer Cleftjaw	Unknown	20
-Doreah	Unknown	20
-Kovarro	Unknown	20
-Hodor	Unknown	20
-Rickon Stark	Unknown	20
-Rattleshirt	Unknown	20
-Lorren	Unknown	20
-Podrick Payne	Unknown	20
-Jaqen's New Face	Unknown	20
-Stark Soldier	Unknown	20
-Soldier Tom (as Christopher Reilly)	Unknown	20
-Septon	Unknown	20
-White Walker	Unknown	20
-Rhaego	Unknown	20
-Khal Drogo	Unknown	20
-Tyrion Lannister	Unknown	21
-Cersei Lannister	Unknown	21
-Daenerys Targaryen	Unknown	21
-Jon Snow	Unknown	21
-Robb Stark	Unknown	21
-Jorah Mormont	Unknown	21
-Catelyn Stark	Unknown	21
-Petyr 'Littlefinger' Baelish	Unknown	21
-Tywin Lannister	Unknown	21
-Davos Seaworth	Unknown	21
-Stannis Baratheon	Unknown	21
-Melisandre	Unknown	21
-Margaery Tyrell	Unknown	21
-Samwell Tarly	Unknown	21
-Joffrey Baratheon	Unknown	21
-Sansa Stark	Unknown	21
-Talisa Maegyr	Unknown	21
-Shae	Unknown	21
-Ygritte	Unknown	21
-Jeor Mormont	Unknown	21
-Bronn	Unknown	21
-Mance Rayder	Unknown	21
-Roose Bolton	Unknown	21
-Barristan Selmy	Unknown	21
-Loras Tyrell	Unknown	21
-Qyburn	Unknown	21
-Tormund Giantsbane	Unknown	21
-Ros	Unknown	21
-Rickard Karstark	Unknown	21
-Salladhor Saan	Unknown	21
-Grenn	Unknown	21
-Eddison Tollett	Unknown	21
-Podrick Payne	Unknown	21
-Kraznys mo Nakloz	Unknown	21
-Missandei	Unknown	21
-Rast	Unknown	21
-Rattleshirt	Unknown	21
-Meryn Trant	Unknown	21
-Giant	Unknown	21
-Mirelle	Unknown	21
-Boat Commander	Unknown	21
-Margaery's Handmaid	Unknown	21
-Orphan #1	Unknown	21
-Warlock	Unknown	21
-Unsullied	Unknown	21
-Tyrion Lannister	Unknown	22
-Jaime Lannister	Unknown	22
-Cersei Lannister	Unknown	22
-Jon Snow	Unknown	22
-Robb Stark	Unknown	22
-Catelyn Stark	Unknown	22
-Margaery Tyrell	Unknown	22
-Bran Stark	Unknown	22
-Joffrey Baratheon	Unknown	22
-Sansa Stark	Unknown	22
-Arya Stark	Unknown	22
-Theon Greyjoy	Unknown	22
-Talisa Maegyr	Unknown	22
-Gendry	Unknown	22
-Ygritte	Unknown	22
-Samwell Tarly	Unknown	22
-Jeor Mormont	Unknown	22
-Shae	Unknown	22
-Sandor 'The Hound' Clegane	Unknown	22
-Olenna Tyrell	Unknown	22
-Mance Rayder	Unknown	22
-Orell	Unknown	22
-Thoros of Myr	Unknown	22
-Brienne of Tarth	Unknown	22
-Locke	Unknown	22
-Osha	Unknown	22
-Roose Bolton	Unknown	22
-Ramsay Snow	Unknown	22
-Tormund Giantsbane	Unknown	22
-Loras Tyrell	Unknown	22
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	22
-Meera Reed	Unknown	22
-Hot Pie	Unknown	22
-Rickard Karstark	Unknown	22
-Anguy	Unknown	22
-Grenn	Unknown	22
-Eddison Tollett	Unknown	22
-Rast	Unknown	22
-Hodor	Unknown	22
-Rickon Stark	Unknown	22
-Skinner	Unknown	22
-Riverrun Traveler	Unknown	22
-Tailor	Unknown	22
-Server	Unknown	22
-Tyrion Lannister	Unknown	23
-Jaime Lannister	Unknown	23
-Cersei Lannister	Unknown	23
-Daenerys Targaryen	Unknown	23
-Jon Snow	Unknown	23
-Robb Stark	Unknown	23
-Jorah Mormont	Unknown	23
-Catelyn Stark	Unknown	23
-Petyr 'Littlefinger' Baelish	Unknown	23
-Tywin Lannister	Unknown	23
-Stannis Baratheon	Unknown	23
-Melisandre	Unknown	23
-Theon Greyjoy	Unknown	23
-Samwell Tarly	Unknown	23
-Arya Stark	Unknown	23
-Talisa Maegyr	Unknown	23
-Gendry	Unknown	23
-Ygritte	Unknown	23
-Jeor Mormont	Unknown	23
-Lord Varys	Unknown	23
-Bronn	Unknown	23
-Sandor 'The Hound' Clegane	Unknown	23
-Mance Rayder	Unknown	23
-Craster	Unknown	23
-Barristan Selmy	Unknown	23
-Brienne of Tarth	Unknown	23
-Orell	Unknown	23
-Thoros of Myr	Unknown	23
-Brynden 'Blackfish' Tully	Unknown	23
-Edmure Tully	Unknown	23
-Tormund Giantsbane	Unknown	23
-Grand Maester Pycelle	Unknown	23
-Ramsay Snow	Unknown	23
-Locke	Unknown	23
-Grenn	Unknown	23
-Eddison Tollett	Unknown	23
-Rast	Unknown	23
-Karl Tanner	Unknown	23
-Gilly	Unknown	23
-Hot Pie	Unknown	23
-Ros	Unknown	23
-Podrick Payne	Unknown	23
-Anguy	Unknown	23
-Kraznys mo Nakloz	Unknown	23
-Missandei	Unknown	23
-Skinner	Unknown	23
-Greizhen mo Ullhor (as Clifford Barry)	Unknown	23
-Bolton Soldier	Unknown	23
-Craster's Wife	Unknown	23
-Craster's Younger Wife	Unknown	23
-Marei	Unknown	23
-Genna	Unknown	23
-Kayla	Unknown	23
-Martyn Lannister	Unknown	23
-Willem Lannister	Unknown	23
-Tortured Slave	Unknown	23
-Tyrion Lannister	Unknown	24
-Jaime Lannister	Unknown	24
-Cersei Lannister	Unknown	24
-Daenerys Targaryen	Unknown	24
-Jorah Mormont	Unknown	24
-Catelyn Stark	Unknown	24
-Tywin Lannister	Unknown	24
-Margaery Tyrell	Unknown	24
-Theon Greyjoy	Unknown	24
-Bran Stark	Unknown	24
-Sansa Stark	Unknown	24
-Arya Stark	Unknown	24
-Samwell Tarly	Unknown	24
-Gendry	Unknown	24
-Joffrey Baratheon	Unknown	24
-Sandor 'The Hound' Clegane	Unknown	24
-Lord Varys	Unknown	24
-Jeor Mormont	Unknown	24
-Olenna Tyrell	Unknown	24
-Craster	Unknown	24
-Brienne of Tarth	Unknown	24
-Barristan Selmy	Unknown	24
-Thoros of Myr	Unknown	24
-Beric Dondarrion	Unknown	24
-Locke	Unknown	24
-Ramsay Snow	Unknown	24
-Gilly	Unknown	24
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	24
-Karl Tanner	Unknown	24
-Grenn	Unknown	24
-Eddison Tollett	Unknown	24
-Rast (as Luke McEwan)	Unknown	24
-Kraznys mo Nakloz	Unknown	24
-Missandei	Unknown	24
-Ros	Unknown	24
-Anguy	Unknown	24
-Greizhen mo Ullhor (as Clifford Barry)	Unknown	24
-Young Tyrell Lady	Unknown	24
-Bolton Man	Unknown	24
-Sorcerer	Unknown	24
-Tyrion Lannister	Unknown	25
-Jaime Lannister	Unknown	25
-Cersei Lannister	Unknown	25
-Daenerys Targaryen	Unknown	25
-Jon Snow	Unknown	25
-Robb Stark	Unknown	25
-Jorah Mormont	Unknown	25
-Catelyn Stark	Unknown	25
-Petyr 'Littlefinger' Baelish	Unknown	25
-Tywin Lannister	Unknown	25
-Davos Seaworth	Unknown	25
-Stannis Baratheon	Unknown	25
-Margaery Tyrell	Unknown	25
-Talisa Maegyr	Unknown	25
-Sansa Stark	Unknown	25
-Arya Stark	Unknown	25
-Gendry	Unknown	25
-Ygritte	Unknown	25
-Sandor 'The Hound' Clegane	Unknown	25
-Olenna Tyrell	Unknown	25
-Brienne of Tarth	Unknown	25
-Barristan Selmy	Unknown	25
-Roose Bolton	Unknown	25
-Thoros of Myr	Unknown	25
-Beric Dondarrion	Unknown	25
-Orell	Unknown	25
-Qyburn	Unknown	25
-Brynden 'Blackfish' Tully	Unknown	25
-Edmure Tully	Unknown	25
-Tormund Giantsbane	Unknown	25
-Locke	Unknown	25
-Loras Tyrell	Unknown	25
-Rickard Karstark	Unknown	25
-Selyse Baratheon	Unknown	25
-Shireen Baratheon	Unknown	25
-Missandei	Unknown	25
-Grey Worm	Unknown	25
-Anguy	Unknown	25
-Podrick Payne	Unknown	25
-Olyvar	Unknown	25
-Martyn Lannister	Unknown	25
-Willem Lannister	Unknown	25
-Young Captive	Unknown	25
-Tyrion Lannister	Unknown	26
-Cersei Lannister	Unknown	26
-Jaime Lannister	Unknown	26
-Jon Snow	Unknown	26
-Robb Stark	Unknown	26
-Catelyn Stark	Unknown	26
-Petyr 'Littlefinger' Baelish	Unknown	26
-Tywin Lannister	Unknown	26
-Melisandre	Unknown	26
-Theon Greyjoy	Unknown	26
-Bran Stark	Unknown	26
-Sansa Stark	Unknown	26
-Arya Stark	Unknown	26
-Samwell Tarly	Unknown	26
-Gendry	Unknown	26
-Joffrey Baratheon	Unknown	26
-Ygritte	Unknown	26
-Lord Varys	Unknown	26
-Shae	Unknown	26
-Olenna Tyrell	Unknown	26
-Brienne of Tarth	Unknown	26
-Roose Bolton	Unknown	26
-Thoros of Myr	Unknown	26
-Beric Dondarrion	Unknown	26
-Orell	Unknown	26
-Osha	Unknown	26
-Brynden 'Blackfish' Tully	Unknown	26
-Edmure Tully	Unknown	26
-Tormund Giantsbane	Unknown	26
-Ramsay Snow	Unknown	26
-Gilly	Unknown	26
-Loras Tyrell	Unknown	26
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	26
-Meera Reed	Unknown	26
-Ros	Unknown	26
-Anguy	Unknown	26
-Hodor	Unknown	26
-Lothar Frey	Unknown	26
-Black Walder Rivers	Unknown	26
-Handmaid	Unknown	26
-Rickon Stark	Unknown	26
-Tyrion Lannister	Unknown	27
-Jaime Lannister	Unknown	27
-Daenerys Targaryen	Unknown	27
-Jon Snow	Unknown	27
-Robb Stark	Unknown	27
-Jorah Mormont	Unknown	27
-Catelyn Stark	Unknown	27
-Tywin Lannister	Unknown	27
-Margaery Tyrell	Unknown	27
-Melisandre	Unknown	27
-Bran Stark	Unknown	27
-Sansa Stark	Unknown	27
-Arya Stark	Unknown	27
-Theon Greyjoy	Unknown	27
-Talisa Maegyr	Unknown	27
-Joffrey Baratheon	Unknown	27
-Gendry	Unknown	27
-Shae	Unknown	27
-Ygritte	Unknown	27
-Bronn	Unknown	27
-Sandor 'The Hound' Clegane	Unknown	27
-Orell	Unknown	27
-Brienne of Tarth	Unknown	27
-Beric Dondarrion	Unknown	27
-Thoros of Myr	Unknown	27
-Locke	Unknown	27
-Osha	Unknown	27
-Qyburn	Unknown	27
-Roose Bolton	Unknown	27
-Brynden 'Blackfish' Tully	Unknown	27
-Edmure Tully	Unknown	27
-Barristan Selmy	Unknown	27
-Ramsay Snow	Unknown	27
-Tormund Giantsbane	Unknown	27
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	27
-Meera Reed	Unknown	27
-Missandei	Unknown	27
-Grey Worm	Unknown	27
-Hodor	Unknown	27
-Anguy	Unknown	27
-Razdal mo Eraz	Unknown	27
-Steelshanks Walton	Unknown	27
-Myranda	Unknown	27
-Violet	Unknown	27
-Rickon Stark	Unknown	27
-The Bear	Unknown	27
-Tyrion Lannister	Unknown	28
-Cersei Lannister	Unknown	28
-Daenerys Targaryen	Unknown	28
-Jorah Mormont	Unknown	28
-Tywin Lannister	Unknown	28
-Davos Seaworth	Unknown	28
-Stannis Baratheon	Unknown	28
-Melisandre	Unknown	28
-Margaery Tyrell	Unknown	28
-Joffrey Baratheon	Unknown	28
-Sansa Stark	Unknown	28
-Arya Stark	Unknown	28
-Samwell Tarly	Unknown	28
-Gendry	Unknown	28
-Shae	Unknown	28
-Sandor 'The Hound' Clegane	Unknown	28
-Lord Varys	Unknown	28
-Bronn	Unknown	28
-Olenna Tyrell	Unknown	28
-Grand Maester Pycelle	Unknown	28
-Barristan Selmy	Unknown	28
-Gilly	Unknown	28
-Loras Tyrell	Unknown	28
-Daario Naharis	Unknown	28
-Grey Worm	Unknown	28
-Missandei	Unknown	28
-Mero	Unknown	28
-Prendahl na Ghezn	Unknown	28
-Podrick Payne	Unknown	28
-Meryn Trant	Unknown	28
-High Septon	Unknown	28
-Yunkai Whore	Unknown	28
-White Walker	Unknown	28
-Daenerys Targaryen	Unknown	29
-Jon Snow	Unknown	29
-Robb Stark	Unknown	29
-Jorah Mormont	Unknown	29
-Catelyn Stark	Unknown	29
-Samwell Tarly	Unknown	29
-Bran Stark	Unknown	29
-Arya Stark	Unknown	29
-Talisa Maegyr	Unknown	29
-Ygritte	Unknown	29
-Sandor 'The Hound' Clegane	Unknown	29
-Walder Frey	Unknown	29
-Orell	Unknown	29
-Roose Bolton	Unknown	29
-Barristan Selmy	Unknown	29
-Brynden 'Blackfish' Tully	Unknown	29
-Edmure Tully	Unknown	29
-Tormund Giantsbane	Unknown	29
-Osha	Unknown	29
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	29
-Meera Reed	Unknown	29
-Gilly	Unknown	29
-Daario Naharis	Unknown	29
-Grey Worm	Unknown	29
-Missandei	Unknown	29
-Hodor	Unknown	29
-Lothar Frey	Unknown	29
-Black Walder Rivers	Unknown	29
-Septon	Unknown	29
-Rickon Stark	Unknown	29
-Roslin Frey	Unknown	29
-Old Man	Unknown	29
-Frey Guard	Unknown	29
-Merry Frey	Unknown	29
-Hog Farmer	Unknown	29
-Joyeuse Erenford	Unknown	29
-Wendel Manderly (as Oddie Bradell)	Unknown	29
-Drummer	Unknown	29
-Tyrion Lannister	Unknown	30
-Jaime Lannister	Unknown	30
-Cersei Lannister	Unknown	30
-Daenerys Targaryen	Unknown	30
-Jon Snow	Unknown	30
-Jorah Mormont	Unknown	30
-Tywin Lannister	Unknown	30
-Davos Seaworth	Unknown	30
-Stannis Baratheon	Unknown	30
-Melisandre	Unknown	30
-Bran Stark	Unknown	30
-Sansa Stark	Unknown	30
-Arya Stark	Unknown	30
-Theon Greyjoy	Unknown	30
-Joffrey Baratheon	Unknown	30
-Ygritte	Unknown	30
-Samwell Tarly	Unknown	30
-Gendry	Unknown	30
-Sandor 'The Hound' Clegane	Unknown	30
-Lord Varys	Unknown	30
-Shae	Unknown	30
-Walder Frey	Unknown	30
-Balon Greyjoy	Unknown	30
-Roose Bolton	Unknown	30
-Maester Aemon	Unknown	30
-Grand Maester Pycelle	Unknown	30
-Brienne of Tarth	Unknown	30
-Ramsay Snow	Unknown	30
-Barristan Selmy	Unknown	30
-Qyburn	Unknown	30
-Gilly	Unknown	30
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	30
-Meera Reed	Unknown	30
-Yara Greyjoy	Unknown	30
-Podrick Payne	Unknown	30
-Daario Naharis	Unknown	30
-Hodor	Unknown	30
-Missandei	Unknown	30
-Grey Worm	Unknown	30
-Pypar	Unknown	30
-Shireen Baratheon	Unknown	30
-Frey Soldier #1	Unknown	30
-Frey Soldier #2	Unknown	30
-Fruit Vendor (as Alexander Mileman)	Unknown	30
-Night's Watchman	Unknown	30
-Desmond Crakehall	Unknown	30
-Tyrion Lannister	Unknown	31
-Jaime Lannister	Unknown	31
-Cersei Lannister	Unknown	31
-Daenerys Targaryen	Unknown	31
-Jon Snow	Unknown	31
-Tywin Lannister	Unknown	31
-Margaery Tyrell	Unknown	31
-Joffrey Baratheon	Unknown	31
-Sansa Stark	Unknown	31
-Arya Stark	Unknown	31
-Samwell Tarly	Unknown	31
-Ygritte	Unknown	31
-Tormund Giantsbane	Unknown	31
-Sandor 'The Hound' Clegane	Unknown	31
-Brienne of Tarth	Unknown	31
-Bronn	Unknown	31
-Shae	Unknown	31
-Jorah Mormont	Unknown	31
-Olenna Tyrell	Unknown	31
-Oberyn Martell	Unknown	31
-Ellaria Sand	Unknown	31
-Daario Naharis	Unknown	31
-Barristan Selmy	Unknown	31
-Maester Aemon	Unknown	31
-Alliser Thorne	Unknown	31
-Qyburn	Unknown	31
-Styr	Unknown	31
-Grey Worm	Unknown	31
-Missandei	Unknown	31
-Janos Slynt	Unknown	31
-Podrick Payne	Unknown	31
-Meryn Trant	Unknown	31
-Dontos Hollard	Unknown	31
-Olyvar	Unknown	31
-Polliver	Unknown	31
-Morgan	Unknown	31
-Morgan's Friend	Unknown	31
-Thenn Warg	Unknown	31
-Innkeeper	Unknown	31
-Lord Blackmont	Unknown	31
-Othell Yarwyck	Unknown	31
-Ser Endrew Tarth	Unknown	31
-Handmaid	Unknown	31
-Marei	Unknown	31
-Whore	Unknown	31
-Valyrian Sword Smith	Unknown	31
-Innkeeper's Daughter	Unknown	31
-Whore	Unknown	31
-Tyrion Lannister	Unknown	32
-Jaime Lannister	Unknown	32
-Cersei Lannister	Unknown	32
-Tywin Lannister	Unknown	32
-Margaery Tyrell	Unknown	32
-Davos Seaworth	Unknown	32
-Stannis Baratheon	Unknown	32
-Melisandre	Unknown	32
-Theon Greyjoy	Unknown	32
-Joffrey Baratheon	Unknown	32
-Bran Stark	Unknown	32
-Sansa Stark	Unknown	32
-Brienne of Tarth	Unknown	32
-Shae	Unknown	32
-Ramsay Snow	Unknown	32
-Lord Varys	Unknown	32
-Bronn	Unknown	32
-Olenna Tyrell	Unknown	32
-Oberyn Martell	Unknown	32
-Ellaria Sand	Unknown	32
-Roose Bolton	Unknown	32
-Grand Maester Pycelle	Unknown	32
-Locke	Unknown	32
-Selyse Baratheon	Unknown	32
-Mace Tyrell	Unknown	32
-Loras Tyrell	Unknown	32
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	32
-Meera Reed	Unknown	32
-Hodor	Unknown	32
-Tommen Baratheon	Unknown	32
-Podrick Payne	Unknown	32
-Meryn Trant	Unknown	32
-Dontos Hollard	Unknown	32
-Shireen Baratheon	Unknown	32
-Myranda	Unknown	32
-Tansy	Unknown	32
-High Septon	Unknown	32
-Walda Bolton	Unknown	32
-Axell Florent	Unknown	32
-Kayla	Unknown	32
-Musician (as Jón Þór Birgisson)	Unknown	32
-Musician (as Orri Páll Dýrason)	Unknown	32
-Musician	Unknown	32
-King Joffrey Baratheon Dwarf	Unknown	32
-King Stannis Baratheon Dwarf (as Max Laird)	Unknown	32
-King Renly Baratheon Dwarf	Unknown	32
-King Robb Stark Dwarf	Unknown	32
-King Balon Greyjoy Dwarf	Unknown	32
-Tyrion Lannister	Unknown	33
-Jaime Lannister	Unknown	33
-Cersei Lannister	Unknown	33
-Daenerys Targaryen	Unknown	33
-Jon Snow	Unknown	33
-Petyr 'Littlefinger' Baelish	Unknown	33
-Tywin Lannister	Unknown	33
-Margaery Tyrell	Unknown	33
-Davos Seaworth	Unknown	33
-Stannis Baratheon	Unknown	33
-Joffrey Baratheon	Unknown	33
-Sansa Stark	Unknown	33
-Arya Stark	Unknown	33
-Sandor 'The Hound' Clegane	Unknown	33
-Samwell Tarly	Unknown	33
-Ygritte	Unknown	33
-Tormund Giantsbane	Unknown	33
-Gilly	Unknown	33
-Brienne of Tarth (credit only)	Unknown	33
-Lord Varys (credit only)	Unknown	33
-Jorah Mormont	Unknown	33
-Olenna Tyrell	Unknown	33
-Oberyn Martell	Unknown	33
-Ellaria Sand	Unknown	33
-Daario Naharis	Unknown	33
-Maester Aemon	Unknown	33
-Grand Maester Pycelle	Unknown	33
-Alliser Thorne	Unknown	33
-Styr	Unknown	33
-Janos Slynt	Unknown	33
-Grey Worm	Unknown	33
-Missandei	Unknown	33
-Grenn	Unknown	33
-Eddison Tollett	Unknown	33
-Podrick Payne	Unknown	33
-Dontos Hollard	Unknown	33
-Olyvar	Unknown	33
-Tommen Baratheon	Unknown	33
-Pypar	Unknown	33
-Meryn Trant	Unknown	33
-Hizdahr zo Loraq	Unknown	33
-Farmer Hamlet	Unknown	33
-Shireen Baratheon	Unknown	33
-Olly	Unknown	33
-Guymon	Unknown	33
-Guymon's Mother	Unknown	33
-Mole's Town Whore	Unknown	33
-Mole's Town Madam	Unknown	33
-Thenn Warg	Unknown	33
-Othell Yarwyck	Unknown	33
-High Septon	Unknown	33
-Night's Watch Ranger (as Patrick Molloy)	Unknown	33
-Meereen Slave Master	Unknown	33
-Farmer's Daughter (as Trixiebelle Harrowell)	Unknown	33
-Marei	Unknown	33
-Whore	Unknown	33
-Meereen Slave Master	Unknown	33
-Meereen Slave	Unknown	33
-Meereen Slave Master	Unknown	33
-Tyrion Lannister	Unknown	34
-Jaime Lannister	Unknown	34
-Cersei Lannister	Unknown	34
-Daenerys Targaryen	Unknown	34
-Jon Snow	Unknown	34
-Petyr 'Littlefinger' Baelish	Unknown	34
-Margaery Tyrell	Unknown	34
-Samwell Tarly	Unknown	34
-Bran Stark	Unknown	34
-Sansa Stark	Unknown	34
-Brienne of Tarth	Unknown	34
-Bronn	Unknown	34
-Jorah Mormont	Unknown	34
-Olenna Tyrell	Unknown	34
-Daario Naharis	Unknown	34
-Barristan Selmy	Unknown	34
-Alliser Thorne	Unknown	34
-Karl Tanner	Unknown	34
-Locke	Unknown	34
-Janos Slynt	Unknown	34
-Missandei	Unknown	34
-Grey Worm	Unknown	34
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	34
-Meera Reed	Unknown	34
-Hodor	Unknown	34
-Grenn	Unknown	34
-Eddison Tollett	Unknown	34
-Rast	Unknown	34
-Tommen Baratheon	Unknown	34
-Podrick Payne	Unknown	34
-Pypar	Unknown	34
-Olly	Unknown	34
-Slave Master	Unknown	34
-Mossador	Unknown	34
-Elder Meereen Slave	Unknown	34
-White Walker	Unknown	34
-Night's King	Unknown	34
-Morag	Unknown	34
-Valyrian Slave	Unknown	34
-Unsullied	Unknown	34
-Craster's Wife	Unknown	34
-Jaime Lannister	Unknown	35
-Cersei Lannister	Unknown	35
-Daenerys Targaryen	Unknown	35
-Jon Snow	Unknown	35
-Petyr 'Littlefinger' Baelish	Unknown	35
-Tywin Lannister	Unknown	35
-Margaery Tyrell	Unknown	35
-Bran Stark	Unknown	35
-Sansa Stark	Unknown	35
-Arya Stark	Unknown	35
-Sandor 'The Hound' Clegane	Unknown	35
-Brienne of Tarth	Unknown	35
-Bronn (credit only)	Unknown	35
-Jorah Mormont	Unknown	35
-Oberyn Martell	Unknown	35
-Daario Naharis	Unknown	35
-Karl Tanner	Unknown	35
-Lysa Arryn	Unknown	35
-Barristan Selmy	Unknown	35
-Grand Maester Pycelle	Unknown	35
-Locke	Unknown	35
-Mace Tyrell	Unknown	35
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	35
-Meera Reed	Unknown	35
-Missandei	Unknown	35
-Grey Worm	Unknown	35
-Tommen Baratheon	Unknown	35
-Podrick Payne	Unknown	35
-Loras Tyrell	Unknown	35
-Hodor	Unknown	35
-Grenn	Unknown	35
-Eddison Tollett	Unknown	35
-Rast	Unknown	35
-Morag	Unknown	35
-Robin Arryn	Unknown	35
-High Septon	Unknown	35
-Craster's Wife	Unknown	35
-Donnel Waynwood	Unknown	35
-Tyrion Lannister	Unknown	36
-Jaime Lannister	Unknown	36
-Cersei Lannister	Unknown	36
-Daenerys Targaryen	Unknown	36
-Tywin Lannister	Unknown	36
-Margaery Tyrell	Unknown	36
-Davos Seaworth	Unknown	36
-Stannis Baratheon	Unknown	36
-Theon Greyjoy	Unknown	36
-Ramsay Snow	Unknown	36
-Lord Varys	Unknown	36
-Shae	Unknown	36
-Jorah Mormont	Unknown	36
-Oberyn Martell	Unknown	36
-Grand Maester Pycelle	Unknown	36
-Barristan Selmy	Unknown	36
-Tycho Nestoris	Unknown	36
-Mace Tyrell	Unknown	36
-Salladhor Saan	Unknown	36
-Missandei	Unknown	36
-Grey Worm	Unknown	36
-Yara Greyjoy	Unknown	36
-Loras Tyrell	Unknown	36
-Tommen Baratheon	Unknown	36
-Meryn Trant	Unknown	36
-Hizdahr zo Loraq	Unknown	36
-Myranda	Unknown	36
-Goat Herd	Unknown	36
-First Mate	Unknown	36
-Lhara	Unknown	36
-Whore (as Samantha McEwan)	Unknown	36
-Ironborn	Unknown	36
-Bolton Guard	Unknown	36
-Manservant	Unknown	36
-Goat Herd Boy	Unknown	36
-Tyrion Lannister	Unknown	37
-Jaime Lannister	Unknown	37
-Cersei Lannister	Unknown	37
-Daenerys Targaryen	Unknown	37
-Jon Snow	Unknown	37
-Petyr 'Littlefinger' Baelish	Unknown	37
-Melisandre	Unknown	37
-Samwell Tarly	Unknown	37
-Sansa Stark	Unknown	37
-Arya Stark	Unknown	37
-Sandor 'The Hound' Clegane	Unknown	37
-Brienne of Tarth	Unknown	37
-Bronn	Unknown	37
-Jorah Mormont	Unknown	37
-Oberyn Martell	Unknown	37
-Daario Naharis	Unknown	37
-Alliser Thorne	Unknown	37
-Selyse Baratheon	Unknown	37
-Lysa Arryn	Unknown	37
-Janos Slynt	Unknown	37
-Dying Man	Unknown	37
-Grenn	Unknown	37
-Eddison Tollett	Unknown	37
-Pypar	Unknown	37
-Podrick Payne	Unknown	37
-Robin Arryn	Unknown	37
-Olly	Unknown	37
-Rorge	Unknown	37
-Hot Pie	Unknown	37
-Gregor Clegane	Unknown	37
-Othell Yarwyck	Unknown	37
-Biter	Unknown	37
-Prisoner	Unknown	37
-Tyrion Lannister	Unknown	38
-Jaime Lannister	Unknown	38
-Cersei Lannister	Unknown	38
-Daenerys Targaryen	Unknown	38
-Jon Snow	Unknown	38
-Petyr 'Littlefinger' Baelish	Unknown	38
-Tywin Lannister	Unknown	38
-Theon Greyjoy	Unknown	38
-Samwell Tarly	Unknown	38
-Sansa Stark	Unknown	38
-Arya Stark	Unknown	38
-Ygritte	Unknown	38
-Tormund Giantsbane	Unknown	38
-Gilly	Unknown	38
-Ramsay Snow	Unknown	38
-Lord Varys	Unknown	38
-Sandor 'The Hound' Clegane	Unknown	38
-Jorah Mormont	Unknown	38
-Oberyn Martell	Unknown	38
-Ellaria Sand	Unknown	38
-Roose Bolton	Unknown	38
-Barristan Selmy	Unknown	38
-Grand Maester Pycelle	Unknown	38
-Mace Tyrell	Unknown	38
-Styr	Unknown	38
-Grey Worm	Unknown	38
-Missandei	Unknown	38
-Grenn	Unknown	38
-Eddison Tollett	Unknown	38
-Pypar	Unknown	38
-Anya Waynwood	Unknown	38
-Yohn Royce	Unknown	38
-Gregor Clegane	Unknown	38
-Ralf Kenning	Unknown	38
-Robin Arryn	Unknown	38
-Mole's Town Whore	Unknown	38
-Adrack Humble	Unknown	38
-Donnel Waynwood	Unknown	38
-Vance Corbray	Unknown	38
-Mole's Town Madam	Unknown	38
-Kegs	Unknown	38
-Black Jack Bulwer	Unknown	38
-Mully	Unknown	38
-Little Bird	Unknown	38
-Jon Snow	Unknown	39
-Samwell Tarly	Unknown	39
-Gilly	Unknown	39
-Ygritte	Unknown	39
-Tormund Giantsbane	Unknown	39
-Maester Aemon	Unknown	39
-Alliser Thorne	Unknown	39
-Janos Slynt	Unknown	39
-Grenn	Unknown	39
-Eddison Tollett	Unknown	39
-Styr	Unknown	39
-Pypar	Unknown	39
-Olly	Unknown	39
-Thenn Warg	Unknown	39
-Giant	Unknown	39
-Mag the Mighty	Unknown	39
-Tyrion Lannister	Unknown	40
-Jaime Lannister	Unknown	40
-Cersei Lannister	Unknown	40
-Daenerys Targaryen	Unknown	40
-Jon Snow	Unknown	40
-Tywin Lannister	Unknown	40
-Davos Seaworth	Unknown	40
-Stannis Baratheon	Unknown	40
-Melisandre	Unknown	40
-Samwell Tarly	Unknown	40
-Bran Stark	Unknown	40
-Arya Stark	Unknown	40
-Sandor 'The Hound' Clegane	Unknown	40
-Ygritte	Unknown	40
-Tormund Giantsbane	Unknown	40
-Brienne of Tarth	Unknown	40
-Lord Varys	Unknown	40
-Shae	Unknown	40
-Mance Rayder	Unknown	40
-Maester Aemon	Unknown	40
-Grand Maester Pycelle	Unknown	40
-Qyburn	Unknown	40
-Barristan Selmy	Unknown	40
-Three-Eyed Raven	Unknown	40
-Jojen Reed (as Thomas Brodie Sangster)	Unknown	40
-Meera Reed	Unknown	40
-Hodor	Unknown	40
-Selyse Baratheon	Unknown	40
-Janos Slynt	Unknown	40
-Grey Worm	Unknown	40
-Missandei	Unknown	40
-Grenn	Unknown	40
-Eddison Tollett	Unknown	40
-Pypar	Unknown	40
-Podrick Payne	Unknown	40
-Fennesz	Unknown	40
-Olly	Unknown	40
-Shireen Baratheon	Unknown	40
-Leaf	Unknown	40
-Gregor Clegane	Unknown	40
-Grieving Father	Unknown	40
-Ternesio Terys	Unknown	40
-Giant	Unknown	40
-Child of the Forest	Unknown	40
-Tyrion Lannister	Unknown	41
-Jaime Lannister	Unknown	41
-Cersei Lannister	Unknown	41
-Daenerys Targaryen	Unknown	41
-Jon Snow	Unknown	41
-Petyr 'Littlefinger' Baelish	Unknown	41
-Tywin Lannister	Unknown	41
-Margaery Tyrell	Unknown	41
-Stannis Baratheon	Unknown	41
-Davos Seaworth	Unknown	41
-Melisandre	Unknown	41
-Samwell Tarly	Unknown	41
-Sansa Stark	Unknown	41
-Tormund Giantsbane	Unknown	41
-Gilly	Unknown	41
-Lord Varys	Unknown	41
-Brienne of Tarth	Unknown	41
-Daario Naharis	Unknown	41
-Missandei	Unknown	41
-Tommen Baratheon	Unknown	41
-Mance Rayder	Unknown	41
-Alliser Thorne	Unknown	41
-Barristan Selmy	Unknown	41
-Grand Maester Pycelle	Unknown	41
-Selyse Baratheon	Unknown	41
-Mace Tyrell	Unknown	41
-Grey Worm	Unknown	41
-Loras Tyrell	Unknown	41
-Podrick Payne	Unknown	41
-Maggy	Unknown	41
-Janos Slynt	Unknown	41
-Hizdahr zo Loraq	Unknown	41
-Eddison Tollett	Unknown	41
-Lancel Lannister	Unknown	41
-Olyvar	Unknown	41
-Yohn Royce	Unknown	41
-Meryn Trant	Unknown	41
-Kevan Lannister	Unknown	41
-Olly	Unknown	41
-Shireen Baratheon	Unknown	41
-High Septon	Unknown	41
-Mossador	Unknown	41
-Bowen Marsh	Unknown	41
-Robin Arryn	Unknown	41
-Young Cersei Lannister	Unknown	41
-Melara Hetherspoon	Unknown	41
-White Rat	Unknown	41
-Strong Sam Stone	Unknown	41
-Meereenese Prostitute	Unknown	41
-Maester Hellweg	Unknown	41
-Tyrion Lannister	Unknown	42
-Jaime Lannister	Unknown	42
-Cersei Lannister	Unknown	42
-Daenerys Targaryen	Unknown	42
-Jon Snow	Unknown	42
-Petyr 'Littlefinger' Baelish	Unknown	42
-Stannis Baratheon	Unknown	42
-Davos Seaworth	Unknown	42
-Ellaria Sand	Unknown	42
-Arya Stark	Unknown	42
-Sansa Stark	Unknown	42
-Lord Varys	Unknown	42
-Bronn	Unknown	42
-Samwell Tarly	Unknown	42
-Gilly	Unknown	42
-Brienne of Tarth	Unknown	42
-Missandei	Unknown	42
-Daario Naharis	Unknown	42
-Jaqen H'ghar	Unknown	42
-Maester Aemon	Unknown	42
-Barristan Selmy	Unknown	42
-Grand Maester Pycelle	Unknown	42
-Qyburn	Unknown	42
-Selyse Baratheon	Unknown	42
-Alliser Thorne	Unknown	42
-Doran Martell	Unknown	42
-Grey Worm	Unknown	42
-Eddison Tollett	Unknown	42
-Janos Slynt	Unknown	42
-Podrick Payne	Unknown	42
-Mace Tyrell	Unknown	42
-Hizdahr zo Loraq	Unknown	42
-Areo Hotah (as DeObia Oparei)	Unknown	42
-Kevan Lannister	Unknown	42
-Meryn Trant	Unknown	42
-Mossador	Unknown	42
-Shireen Baratheon	Unknown	42
-Olly	Unknown	42
-Myrcella Baratheon	Unknown	42
-Trystane Martell	Unknown	42
-Lollys Stokeworth	Unknown	42
-Faceless Man	Unknown	42
-Othell Yarwyck	Unknown	42
-Ternesio Terys	Unknown	42
-Denys Mallister (as JJ Murphy)	Unknown	42
-Bowen Marsh	Unknown	42
-Street Tough #1 (as Thomas Fava)	Unknown	42
-Mallister Supporter	Unknown	42
-Eyrie Guard	Unknown	42
-Street Tough #2	Unknown	42
-Inn Waitress	Unknown	42
-Son of Harpy	Unknown	42
-Dwarf Hunter #1	Unknown	42
-Dwarf Hunter #2	Unknown	42
-Tyrion Lannister	Unknown	43
-Cersei Lannister	Unknown	43
-Jon Snow	Unknown	43
-Petyr 'Littlefinger' Baelish	Unknown	43
-Margaery Tyrell	Unknown	43
-Stannis Baratheon	Unknown	43
-Davos Seaworth	Unknown	43
-Lord Varys	Unknown	43
-Theon Greyjoy	Unknown	43
-Sansa Stark	Unknown	43
-Arya Stark	Unknown	43
-Samwell Tarly	Unknown	43
-Brienne of Tarth	Unknown	43
-Tommen Baratheon	Unknown	43
-Jaqen H'ghar	Unknown	43
-Roose Bolton	Unknown	43
-Ramsay Bolton	Unknown	43
-Jorah Mormont	Unknown	43
-High Sparrow	Unknown	43
-Grand Maester Pycelle	Unknown	43
-Qyburn	Unknown	43
-Alliser Thorne	Unknown	43
-Mace Tyrell	Unknown	43
-Eddison Tollett	Unknown	43
-Waif	Unknown	43
-Podrick Payne	Unknown	43
-Janos Slynt	Unknown	43
-Meryn Trant	Unknown	43
-Lancel Lannister	Unknown	43
-Olly	Unknown	43
-Olyvar	Unknown	43
-Loras Tyrell	Unknown	43
-Myranda	Unknown	43
-Red Priestess	Unknown	43
-Walda Bolton	Unknown	43
-High Septon	Unknown	43
-Othell Yarwyck	Unknown	43
-Bowen Marsh	Unknown	43
-Old Woman	Unknown	43
-Brothel Guard	Unknown	43
-Despondent Man	Unknown	43
-Sellsword (as Matt McArdel)	Unknown	43
-Sellsword	Unknown	43
-Clea	Unknown	43
-Beggar	Unknown	43
-The Mother of Dragons	Unknown	43
-The Warrior	Unknown	43
-The Smith	Unknown	43
-The Mother	Unknown	43
-The Maiden	Unknown	43
-The Crone	Unknown	43
-Tyrion Lannister	Unknown	44
-Jaime Lannister	Unknown	44
-Cersei Lannister	Unknown	44
-Daenerys Targaryen	Unknown	44
-Jon Snow	Unknown	44
-Petyr 'Littlefinger' Baelish	Unknown	44
-Margaery Tyrell	Unknown	44
-Stannis Baratheon	Unknown	44
-Melisandre	Unknown	44
-Ellaria Sand	Unknown	44
-Samwell Tarly	Unknown	44
-Sansa Stark	Unknown	44
-Bronn	Unknown	44
-Daario Naharis	Unknown	44
-Missandei	Unknown	44
-Tommen Baratheon	Unknown	44
-Jorah Mormont	Unknown	44
-High Sparrow	Unknown	44
-Barristan Selmy	Unknown	44
-Grand Maester Pycelle	Unknown	44
-Qyburn	Unknown	44
-Selyse Baratheon	Unknown	44
-Mace Tyrell	Unknown	44
-Grey Worm	Unknown	44
-Meryn Trant	Unknown	44
-Hizdahr zo Loraq	Unknown	44
-Lancel Lannister	Unknown	44
-Eddison Tollett	Unknown	44
-Obara Sand	Unknown	44
-Tyene Sand	Unknown	44
-Nymeria Sand	Unknown	44
-Shireen Baratheon	Unknown	44
-Olly	Unknown	44
-Loras Tyrell	Unknown	44
-Olyvar	Unknown	44
-Merchant Captain	Unknown	44
-Lead Dornish Guard	Unknown	44
-Marei	Unknown	44
-Meereenese Prostitute	Unknown	44
-Faith Militant #1	Unknown	44
-Faith Militant #2	Unknown	44
-Meereenese Fighter	Unknown	44
-Lead Kingsguard	Unknown	44
-Foreign Merchant	Unknown	44
-Brothel Customer	Unknown	44
-Tyrion Lannister	Unknown	45
-Daenerys Targaryen	Unknown	45
-Jon Snow	Unknown	45
-Stannis Baratheon	Unknown	45
-Davos Seaworth	Unknown	45
-Melisandre	Unknown	45
-Theon Greyjoy	Unknown	45
-Samwell Tarly	Unknown	45
-Sansa Stark	Unknown	45
-Gilly	Unknown	45
-Daario Naharis	Unknown	45
-Missandei	Unknown	45
-Brienne of Tarth	Unknown	45
-Tormund Giantsbane	Unknown	45
-Roose Bolton	Unknown	45
-Ramsay Bolton	Unknown	45
-Jorah Mormont	Unknown	45
-Barristan Selmy	Unknown	45
-Maester Aemon	Unknown	45
-Selyse Baratheon	Unknown	45
-Alliser Thorne	Unknown	45
-Grey Worm	Unknown	45
-Hizdahr zo Loraq	Unknown	45
-Eddison Tollett	Unknown	45
-Podrick Payne	Unknown	45
-Myranda	Unknown	45
-Shireen Baratheon	Unknown	45
-Olly	Unknown	45
-Walda Bolton	Unknown	45
-Othell Yarwyck	Unknown	45
-Bowen Marsh	Unknown	45
-Old Woman	Unknown	45
-Master Eaton	Unknown	45
-Old Man	Unknown	45
-Great Master #1 (as Ratib Asghar)	Unknown	45
-Elboneno	Unknown	45
-Great Master #4	Unknown	45
-Great Master #5	Unknown	45
-Great Master #6	Unknown	45
-Great Master #7	Unknown	45
-Tyrion Lannister	Unknown	46
-Jaime Lannister	Unknown	46
-Cersei Lannister	Unknown	46
-Petyr 'Littlefinger' Baelish	Unknown	46
-Margaery Tyrell	Unknown	46
-Ellaria Sand	Unknown	46
-Arya Stark	Unknown	46
-Sansa Stark	Unknown	46
-Bronn	Unknown	46
-Theon Greyjoy	Unknown	46
-Roose Bolton	Unknown	46
-Ramsay Bolton	Unknown	46
-Jaqen H'ghar	Unknown	46
-Tommen Baratheon	Unknown	46
-Jorah Mormont	Unknown	46
-Olenna Tyrell	Unknown	46
-High Sparrow	Unknown	46
-Doran Martell	Unknown	46
-Areo Hotah (as DeObia Oparei)	Unknown	46
-Obara Sand	Unknown	46
-Tyene Sand	Unknown	46
-Nymeria Sand	Unknown	46
-Loras Tyrell	Unknown	46
-Olyvar	Unknown	46
-Lancel Lannister	Unknown	46
-Waif	Unknown	46
-Malko	Unknown	46
-Trystane Martell	Unknown	46
-Myrcella Baratheon	Unknown	46
-Myranda	Unknown	46
-Walda Bolton	Unknown	46
-Slaver	Unknown	46
-Joss	Unknown	46
-Ghita	Unknown	46
-Tyrion Lannister	Unknown	47
-Jaime Lannister	Unknown	47
-Cersei Lannister	Unknown	47
-Daenerys Targaryen	Unknown	47
-Jon Snow	Unknown	47
-Petyr 'Littlefinger' Baelish	Unknown	47
-Margaery Tyrell	Unknown	47
-Stannis Baratheon	Unknown	47
-Davos Seaworth	Unknown	47
-Melisandre	Unknown	47
-Samwell Tarly	Unknown	47
-Tormund Giantsbane	Unknown	47
-Gilly	Unknown	47
-Tommen Baratheon	Unknown	47
-Theon Greyjoy	Unknown	47
-Sansa Stark	Unknown	47
-Ramsay Bolton	Unknown	47
-Brienne of Tarth	Unknown	47
-Bronn	Unknown	47
-Daario Naharis	Unknown	47
-Jorah Mormont	Unknown	47
-Olenna Tyrell	Unknown	47
-High Sparrow	Unknown	47
-Maester Aemon	Unknown	47
-Alliser Thorne	Unknown	47
-Eddison Tollett	Unknown	47
-Areo Hotah (as DeObia Oparei)	Unknown	47
-Yezzan zo Qaggaz	Unknown	47
-Obara Sand	Unknown	47
-Tyene Sand	Unknown	47
-Nymeria Sand	Unknown	47
-Podrick Payne	Unknown	47
-Hizdahr zo Loraq	Unknown	47
-Myrcella Baratheon	Unknown	47
-Olly	Unknown	47
-Lancel Lannister	Unknown	47
-Malko	Unknown	47
-Septa Unella	Unknown	47
-Othell Yarwyck	Unknown	47
-Bowen Marsh	Unknown	47
-Derek	Unknown	47
-Brant	Unknown	47
-Tyrion Lannister	Unknown	48
-Cersei Lannister	Unknown	48
-Daenerys Targaryen	Unknown	48
-Jon Snow	Unknown	48
-Sansa Stark	Unknown	48
-Arya Stark	Unknown	48
-Samwell Tarly	Unknown	48
-Gilly	Unknown	48
-Tormund Giantsbane	Unknown	48
-Theon Greyjoy	Unknown	48
-Missandei	Unknown	48
-Jaqen H'ghar	Unknown	48
-Roose Bolton	Unknown	48
-Ramsay Bolton	Unknown	48
-Jorah Mormont	Unknown	48
-Qyburn	Unknown	48
-Eddison Tollett	Unknown	48
-Waif	Unknown	48
-Karsi	Unknown	48
-Yezzan zo Qaggaz	Unknown	48
-Loboda	Unknown	48
-Septa Unella	Unknown	48
-Olly	Unknown	48
-Night's King	Unknown	48
-Wun Wun	Unknown	48
-Lord of Bones	Unknown	48
-Wildling Elder	Unknown	48
-Night's Watchman	Unknown	48
-Thin Man	Unknown	48
-Lhara	Unknown	48
-Braavosi Captain	Unknown	48
-White Walker	Unknown	48
-Karsi's Daughter	Unknown	48
-Tyrion Lannister	Unknown	49
-Jaime Lannister	Unknown	49
-Daenerys Targaryen	Unknown	49
-Jon Snow	Unknown	49
-Stannis Baratheon	Unknown	49
-Davos Seaworth	Unknown	49
-Melisandre	Unknown	49
-Ellaria Sand	Unknown	49
-Arya Stark	Unknown	49
-Bronn	Unknown	49
-Samwell Tarly	Unknown	49
-Tormund Giantsbane	Unknown	49
-Jaqen H'ghar	Unknown	49
-Daario Naharis	Unknown	49
-Missandei	Unknown	49
-Jorah Mormont	Unknown	49
-Alliser Thorne	Unknown	49
-Selyse Baratheon	Unknown	49
-Tycho Nestoris	Unknown	49
-Doran Martell	Unknown	49
-Areo Hotah (as DeObia Oparei)	Unknown	49
-Hizdahr zo Loraq	Unknown	49
-Meryn Trant	Unknown	49
-Mace Tyrell	Unknown	49
-Eddison Tollett	Unknown	49
-Obara Sand	Unknown	49
-Tyene Sand	Unknown	49
-Nymeria Sand	Unknown	49
-Myrcella Baratheon	Unknown	49
-Trystane Martell	Unknown	49
-Shireen Baratheon	Unknown	49
-Olly	Unknown	49
-Wun Wun	Unknown	49
-Pit Announcer	Unknown	49
-Thin Man	Unknown	49
-Braavosi Madam	Unknown	49
-Young Braavosi	Unknown	49
-Lhara	Unknown	49
-Karsi's Daughter	Unknown	49
-Karsi's Daughter	Unknown	49
-Othell Yarwyck	Unknown	49
-Bowen Marsh	Unknown	49
-Pit Fighter	Unknown	49
-Brusco	Unknown	49
-Sailor	Unknown	49
-Young Baratheon Soldier	Unknown	49
-Anara	Unknown	49
-Brea	Unknown	49
-Braavosi Prostitute #1	Unknown	49
-Braavosi Prostitute #4	Unknown	49
-Lannister Guard	Unknown	49
-Lannister Guard	Unknown	49
-Tyrion Lannister	Unknown	50
-Jaime Lannister	Unknown	50
-Cersei Lannister	Unknown	50
-Daenerys Targaryen	Unknown	50
-Jon Snow	Unknown	50
-Stannis Baratheon	Unknown	50
-Davos Seaworth	Unknown	50
-Melisandre	Unknown	50
-Ellaria Sand	Unknown	50
-Arya Stark	Unknown	50
-Sansa Stark	Unknown	50
-Samwell Tarly	Unknown	50
-Gilly	Unknown	50
-Missandei	Unknown	50
-Daario Naharis	Unknown	50
-Lord Varys	Unknown	50
-Bronn	Unknown	50
-Theon Greyjoy	Unknown	50
-Ramsay Bolton	Unknown	50
-Brienne of Tarth	Unknown	50
-Jaqen H'ghar	Unknown	50
-Jorah Mormont	Unknown	50
-High Sparrow	Unknown	50
-Alliser Thorne	Unknown	50
-Selyse Baratheon	Unknown	50
-Meryn Trant	Unknown	50
-Qyburn	Unknown	50
-Grand Maester Pycelle	Unknown	50
-Doran Martell	Unknown	50
-Grey Worm	Unknown	50
-Podrick Payne	Unknown	50
-Waif	Unknown	50
-Areo Hotah (as DeObia Oparei)	Unknown	50
-Obara Sand	Unknown	50
-Tyene Sand	Unknown	50
-Nymeria Sand	Unknown	50
-Olly	Unknown	50
-Myranda	Unknown	50
-Kevan Lannister	Unknown	50
-Myrcella Baratheon	Unknown	50
-Trystane Martell	Unknown	50
-Septa Unella	Unknown	50
-Gregor Clegane	Unknown	50
-Othell Yarwyck	Unknown	50
-Bowen Marsh	Unknown	50
-Baratheon General	Unknown	50
-Septa #1	Unknown	50
-Septa #2	Unknown	50
-Ghita	Unknown	50
-Child Braavosi Prostitute #2	Unknown	50
-Child Braavosi Prostitute #1	Unknown	50
-Young Baratheon Soldier #2	Unknown	50
-Young Baratheon Soldier #1	Unknown	50
-Gordy	Unknown	50
-Simpson	Unknown	50
-Woodcutter (as Ralph R. Clemente)	Unknown	50
-Drunkard	Unknown	50
-Half Naked Woman	Unknown	50
-Naked Man	Unknown	50
-Cersei Body Double	Unknown	50
+character	allegiance	episode	episodes
+Tyrion Lannister	Unknown	1	46
+Tyrion Lannister	Unknown	2	46
+Tyrion Lannister	Unknown	3	46
+Tyrion Lannister	Unknown	4	46
+Tyrion Lannister	Unknown	5	46
+Tyrion Lannister	Unknown	6	46
+Tyrion Lannister	Unknown	8	46
+Tyrion Lannister	Unknown	9	46
+Tyrion Lannister	Unknown	10	46
+Tyrion Lannister	Unknown	11	46
+Tyrion Lannister	Unknown	12	46
+Tyrion Lannister	Unknown	13	46
+Tyrion Lannister	Unknown	14	46
+Tyrion Lannister	Unknown	15	46
+Tyrion Lannister	Unknown	16	46
+Tyrion Lannister	Unknown	17	46
+Tyrion Lannister	Unknown	18	46
+Tyrion Lannister	Unknown	19	46
+Tyrion Lannister	Unknown	20	46
+Tyrion Lannister	Unknown	21	46
+Tyrion Lannister	Unknown	22	46
+Tyrion Lannister	Unknown	23	46
+Tyrion Lannister	Unknown	24	46
+Tyrion Lannister	Unknown	25	46
+Tyrion Lannister	Unknown	26	46
+Tyrion Lannister	Unknown	27	46
+Tyrion Lannister	Unknown	28	46
+Tyrion Lannister	Unknown	30	46
+Tyrion Lannister	Unknown	31	46
+Tyrion Lannister	Unknown	32	46
+Tyrion Lannister	Unknown	33	46
+Tyrion Lannister	Unknown	34	46
+Tyrion Lannister	Unknown	36	46
+Tyrion Lannister	Unknown	37	46
+Tyrion Lannister	Unknown	38	46
+Tyrion Lannister	Unknown	40	46
+Tyrion Lannister	Unknown	41	46
+Tyrion Lannister	Unknown	42	46
+Tyrion Lannister	Unknown	43	46
+Tyrion Lannister	Unknown	44	46
+Tyrion Lannister	Unknown	45	46
+Tyrion Lannister	Unknown	46	46
+Tyrion Lannister	Unknown	47	46
+Tyrion Lannister	Unknown	48	46
+Tyrion Lannister	Unknown	49	46
+Tyrion Lannister	Unknown	50	46
+Cersei Lannister	Unknown	1	44
+Cersei Lannister	Unknown	2	44
+Cersei Lannister	Unknown	3	44
+Cersei Lannister	Unknown	4	44
+Cersei Lannister	Unknown	5	44
+Cersei Lannister	Unknown	6	44
+Cersei Lannister	Unknown	7	44
+Cersei Lannister	Unknown	8	44
+Cersei Lannister	Unknown	9	44
+Cersei Lannister	Unknown	10	44
+Cersei Lannister	Unknown	11	44
+Cersei Lannister	Unknown	12	44
+Cersei Lannister	Unknown	13	44
+Cersei Lannister	Unknown	15	44
+Cersei Lannister	Unknown	16	44
+Cersei Lannister	Unknown	17	44
+Cersei Lannister	Unknown	18	44
+Cersei Lannister	Unknown	19	44
+Cersei Lannister	Unknown	20	44
+Cersei Lannister	Unknown	21	44
+Cersei Lannister	Unknown	22	44
+Cersei Lannister	Unknown	23	44
+Cersei Lannister	Unknown	24	44
+Cersei Lannister	Unknown	25	44
+Cersei Lannister	Unknown	26	44
+Cersei Lannister	Unknown	28	44
+Cersei Lannister	Unknown	30	44
+Cersei Lannister	Unknown	31	44
+Cersei Lannister	Unknown	32	44
+Cersei Lannister	Unknown	33	44
+Cersei Lannister	Unknown	34	44
+Cersei Lannister	Unknown	35	44
+Cersei Lannister	Unknown	36	44
+Cersei Lannister	Unknown	37	44
+Cersei Lannister	Unknown	38	44
+Cersei Lannister	Unknown	40	44
+Cersei Lannister	Unknown	41	44
+Cersei Lannister	Unknown	42	44
+Cersei Lannister	Unknown	43	44
+Cersei Lannister	Unknown	44	44
+Cersei Lannister	Unknown	46	44
+Cersei Lannister	Unknown	47	44
+Cersei Lannister	Unknown	48	44
+Cersei Lannister	Unknown	50	44
+Daenerys Targaryen	Unknown	1	41
+Jon Snow	Unknown	1	41
+Daenerys Targaryen	Unknown	2	41
+Jon Snow	Unknown	2	41
+Daenerys Targaryen	Unknown	3	41
+Jon Snow	Unknown	3	41
+Daenerys Targaryen	Unknown	4	41
+Jon Snow	Unknown	4	41
+Daenerys Targaryen	Unknown	6	41
+Daenerys Targaryen	Unknown	7	41
+Jon Snow	Unknown	7	41
+Daenerys Targaryen	Unknown	8	41
+Jon Snow	Unknown	8	41
+Daenerys Targaryen	Unknown	9	41
+Jon Snow	Unknown	9	41
+Daenerys Targaryen	Unknown	10	41
+Jon Snow	Unknown	10	41
+Daenerys Targaryen	Unknown	11	41
+Jon Snow	Unknown	11	41
+Daenerys Targaryen	Unknown	12	41
+Jon Snow	Unknown	12	41
+Jon Snow	Unknown	13	41
+Daenerys Targaryen	Unknown	14	41
+Daenerys Targaryen	Unknown	15	41
+Jon Snow	Unknown	15	41
+Daenerys Targaryen	Unknown	16	41
+Jon Snow	Unknown	16	41
+Daenerys Targaryen	Unknown	17	41
+Jon Snow	Unknown	17	41
+Daenerys Targaryen	Unknown	18	41
+Jon Snow	Unknown	18	41
+Daenerys Targaryen	Unknown	20	41
+Jon Snow	Unknown	20	41
+Daenerys Targaryen	Unknown	21	41
+Jon Snow	Unknown	21	41
+Jon Snow	Unknown	22	41
+Daenerys Targaryen	Unknown	23	41
+Jon Snow	Unknown	23	41
+Daenerys Targaryen	Unknown	24	41
+Daenerys Targaryen	Unknown	25	41
+Jon Snow	Unknown	25	41
+Jon Snow	Unknown	26	41
+Daenerys Targaryen	Unknown	27	41
+Jon Snow	Unknown	27	41
+Daenerys Targaryen	Unknown	28	41
+Daenerys Targaryen	Unknown	29	41
+Jon Snow	Unknown	29	41
+Daenerys Targaryen	Unknown	30	41
+Jon Snow	Unknown	30	41
+Daenerys Targaryen	Unknown	31	41
+Jon Snow	Unknown	31	41
+Daenerys Targaryen	Unknown	33	41
+Jon Snow	Unknown	33	41
+Daenerys Targaryen	Unknown	34	41
+Jon Snow	Unknown	34	41
+Daenerys Targaryen	Unknown	35	41
+Jon Snow	Unknown	35	41
+Daenerys Targaryen	Unknown	36	41
+Daenerys Targaryen	Unknown	37	41
+Jon Snow	Unknown	37	41
+Daenerys Targaryen	Unknown	38	41
+Jon Snow	Unknown	38	41
+Jon Snow	Unknown	39	41
+Daenerys Targaryen	Unknown	40	41
+Jon Snow	Unknown	40	41
+Daenerys Targaryen	Unknown	41	41
+Jon Snow	Unknown	41	41
+Daenerys Targaryen	Unknown	42	41
+Jon Snow	Unknown	42	41
+Jon Snow	Unknown	43	41
+Daenerys Targaryen	Unknown	44	41
+Jon Snow	Unknown	44	41
+Daenerys Targaryen	Unknown	45	41
+Jon Snow	Unknown	45	41
+Daenerys Targaryen	Unknown	47	41
+Jon Snow	Unknown	47	41
+Daenerys Targaryen	Unknown	48	41
+Jon Snow	Unknown	48	41
+Daenerys Targaryen	Unknown	49	41
+Jon Snow	Unknown	49	41
+Daenerys Targaryen	Unknown	50	41
+Jon Snow	Unknown	50	41
+Sansa Stark	Unknown	1	40
+Sansa Stark	Unknown	2	40
+Sansa Stark	Unknown	3	40
+Sansa Stark	Unknown	4	40
+Sansa Stark	Unknown	5	40
+Sansa Stark	Unknown	6	40
+Sansa Stark	Unknown	8	40
+Sansa Stark	Unknown	9	40
+Sansa Stark	Unknown	10	40
+Sansa Stark	Unknown	11	40
+Sansa Stark	Unknown	13	40
+Sansa Stark	Unknown	14	40
+Sansa Stark	Unknown	16	40
+Sansa Stark	Unknown	17	40
+Sansa Stark	Unknown	19	40
+Sansa Stark	Unknown	20	40
+Sansa Stark	Unknown	21	40
+Sansa Stark	Unknown	22	40
+Sansa Stark	Unknown	24	40
+Sansa Stark	Unknown	25	40
+Sansa Stark	Unknown	26	40
+Sansa Stark	Unknown	27	40
+Sansa Stark	Unknown	28	40
+Sansa Stark	Unknown	30	40
+Sansa Stark	Unknown	31	40
+Sansa Stark	Unknown	32	40
+Sansa Stark	Unknown	33	40
+Sansa Stark	Unknown	34	40
+Sansa Stark	Unknown	35	40
+Sansa Stark	Unknown	37	40
+Sansa Stark	Unknown	38	40
+Sansa Stark	Unknown	41	40
+Sansa Stark	Unknown	42	40
+Sansa Stark	Unknown	43	40
+Sansa Stark	Unknown	44	40
+Sansa Stark	Unknown	45	40
+Sansa Stark	Unknown	46	40
+Sansa Stark	Unknown	47	40
+Sansa Stark	Unknown	48	40
+Sansa Stark	Unknown	50	40
+Jorah Mormont	Unknown	1	39
+Arya Stark	Unknown	1	39
+Jorah Mormont	Unknown	2	39
+Arya Stark	Unknown	2	39
+Jorah Mormont	Unknown	3	39
+Arya Stark	Unknown	3	39
+Jorah Mormont	Unknown	4	39
+Arya Stark	Unknown	4	39
+Arya Stark	Unknown	5	39
+Jorah Mormont	Unknown	6	39
+Arya Stark	Unknown	6	39
+Jorah Mormont	Unknown	7	39
+Jorah Mormont	Unknown	8	39
+Arya Stark	Unknown	8	39
+Jorah Mormont	Unknown	9	39
+Arya Stark	Unknown	9	39
+Jorah Mormont	Unknown	10	39
+Arya Stark	Unknown	10	39
+Jorah Mormont	Unknown	11	39
+Arya Stark	Unknown	11	39
+Jorah Mormont	Unknown	12	39
+Arya Stark	Unknown	12	39
+Arya Stark	Unknown	13	39
+Jorah Mormont	Unknown	14	39
+Arya Stark	Unknown	14	39
+Jorah Mormont	Unknown	15	39
+Arya Stark	Unknown	15	39
+Arya Stark	Unknown	16	39
+Jorah Mormont	Unknown	17	39
+Arya Stark	Unknown	17	39
+Jorah Mormont	Unknown	18	39
+Arya Stark	Unknown	18	39
+Jorah Mormont	Unknown	20	39
+Arya Stark	Unknown	20	39
+Jorah Mormont	Unknown	21	39
+Arya Stark	Unknown	22	39
+Jorah Mormont	Unknown	23	39
+Arya Stark	Unknown	23	39
+Jorah Mormont	Unknown	24	39
+Arya Stark	Unknown	24	39
+Jorah Mormont	Unknown	25	39
+Arya Stark	Unknown	25	39
+Arya Stark	Unknown	26	39
+Jorah Mormont	Unknown	27	39
+Arya Stark	Unknown	27	39
+Jorah Mormont	Unknown	28	39
+Arya Stark	Unknown	28	39
+Jorah Mormont	Unknown	29	39
+Arya Stark	Unknown	29	39
+Jorah Mormont	Unknown	30	39
+Arya Stark	Unknown	30	39
+Arya Stark	Unknown	31	39
+Jorah Mormont	Unknown	31	39
+Arya Stark	Unknown	33	39
+Jorah Mormont	Unknown	33	39
+Jorah Mormont	Unknown	34	39
+Arya Stark	Unknown	35	39
+Jorah Mormont	Unknown	35	39
+Jorah Mormont	Unknown	36	39
+Arya Stark	Unknown	37	39
+Jorah Mormont	Unknown	37	39
+Arya Stark	Unknown	38	39
+Jorah Mormont	Unknown	38	39
+Arya Stark	Unknown	40	39
+Arya Stark	Unknown	42	39
+Arya Stark	Unknown	43	39
+Jorah Mormont	Unknown	43	39
+Jorah Mormont	Unknown	44	39
+Jorah Mormont	Unknown	45	39
+Arya Stark	Unknown	46	39
+Jorah Mormont	Unknown	46	39
+Jorah Mormont	Unknown	47	39
+Arya Stark	Unknown	48	39
+Jorah Mormont	Unknown	48	39
+Arya Stark	Unknown	49	39
+Jorah Mormont	Unknown	49	39
+Arya Stark	Unknown	50	39
+Jorah Mormont	Unknown	50	39
+Jaime Lannister	Unknown	1	35
+Jaime Lannister	Unknown	2	35
+Jaime Lannister	Unknown	3	35
+Jaime Lannister	Unknown	4	35
+Samwell Tarly	Unknown	4	35
+Jaime Lannister	Unknown	5	35
+Jaime Lannister	Unknown	7	35
+Samwell Tarly	Unknown	7	35
+Samwell Tarly	Unknown	8	35
+Jaime Lannister	Unknown	9	35
+Samwell Tarly	Unknown	9	35
+Jaime Lannister	Unknown	10	35
+Samwell Tarly	Unknown	10	35
+Jaime Lannister	Unknown	11	35
+Samwell Tarly	Unknown	11	35
+Samwell Tarly	Unknown	12	35
+Samwell Tarly	Unknown	13	35
+Samwell Tarly	Unknown	15	35
+Jaime Lannister	Unknown	17	35
+Jaime Lannister	Unknown	18	35
+Samwell Tarly	Unknown	18	35
+Jaime Lannister	Unknown	20	35
+Samwell Tarly	Unknown	20	35
+Samwell Tarly	Unknown	21	35
+Jaime Lannister	Unknown	22	35
+Samwell Tarly	Unknown	22	35
+Jaime Lannister	Unknown	23	35
+Samwell Tarly	Unknown	23	35
+Jaime Lannister	Unknown	24	35
+Samwell Tarly	Unknown	24	35
+Jaime Lannister	Unknown	25	35
+Jaime Lannister	Unknown	26	35
+Samwell Tarly	Unknown	26	35
+Jaime Lannister	Unknown	27	35
+Samwell Tarly	Unknown	28	35
+Samwell Tarly	Unknown	29	35
+Jaime Lannister	Unknown	30	35
+Samwell Tarly	Unknown	30	35
+Jaime Lannister	Unknown	31	35
+Samwell Tarly	Unknown	31	35
+Jaime Lannister	Unknown	32	35
+Jaime Lannister	Unknown	33	35
+Samwell Tarly	Unknown	33	35
+Jaime Lannister	Unknown	34	35
+Samwell Tarly	Unknown	34	35
+Jaime Lannister	Unknown	35	35
+Jaime Lannister	Unknown	36	35
+Jaime Lannister	Unknown	37	35
+Samwell Tarly	Unknown	37	35
+Jaime Lannister	Unknown	38	35
+Samwell Tarly	Unknown	38	35
+Samwell Tarly	Unknown	39	35
+Jaime Lannister	Unknown	40	35
+Samwell Tarly	Unknown	40	35
+Jaime Lannister	Unknown	41	35
+Samwell Tarly	Unknown	41	35
+Jaime Lannister	Unknown	42	35
+Samwell Tarly	Unknown	42	35
+Samwell Tarly	Unknown	43	35
+Jaime Lannister	Unknown	44	35
+Samwell Tarly	Unknown	44	35
+Samwell Tarly	Unknown	45	35
+Jaime Lannister	Unknown	46	35
+Jaime Lannister	Unknown	47	35
+Samwell Tarly	Unknown	47	35
+Samwell Tarly	Unknown	48	35
+Jaime Lannister	Unknown	49	35
+Samwell Tarly	Unknown	49	35
+Jaime Lannister	Unknown	50	35
+Samwell Tarly	Unknown	50	35
+Theon Greyjoy	Unknown	1	32
+Theon Greyjoy	Unknown	2	32
+Theon Greyjoy	Unknown	4	32
+Theon Greyjoy	Unknown	5	32
+Theon Greyjoy	Unknown	6	32
+Theon Greyjoy	Unknown	7	32
+Theon Greyjoy	Unknown	8	32
+Theon Greyjoy	Unknown	9	32
+Theon Greyjoy	Unknown	10	32
+Theon Greyjoy	Unknown	11	32
+Theon Greyjoy	Unknown	12	32
+Theon Greyjoy	Unknown	13	32
+Theon Greyjoy	Unknown	15	32
+Theon Greyjoy	Unknown	16	32
+Theon Greyjoy	Unknown	17	32
+Theon Greyjoy	Unknown	18	32
+Theon Greyjoy	Unknown	20	32
+Theon Greyjoy	Unknown	22	32
+Theon Greyjoy	Unknown	23	32
+Theon Greyjoy	Unknown	24	32
+Theon Greyjoy	Unknown	26	32
+Theon Greyjoy	Unknown	27	32
+Theon Greyjoy	Unknown	30	32
+Theon Greyjoy	Unknown	32	32
+Theon Greyjoy	Unknown	36	32
+Theon Greyjoy	Unknown	38	32
+Theon Greyjoy	Unknown	43	32
+Theon Greyjoy	Unknown	45	32
+Theon Greyjoy	Unknown	46	32
+Theon Greyjoy	Unknown	47	32
+Theon Greyjoy	Unknown	48	32
+Theon Greyjoy	Unknown	50	32
+Petyr 'Littlefinger' Baelish	Unknown	3	30
+Petyr 'Littlefinger' Baelish	Unknown	4	30
+Petyr 'Littlefinger' Baelish	Unknown	5	30
+Petyr 'Littlefinger' Baelish	Unknown	6	30
+Petyr 'Littlefinger' Baelish	Unknown	7	30
+Petyr 'Littlefinger' Baelish	Unknown	8	30
+Petyr 'Littlefinger' Baelish	Unknown	9	30
+Petyr 'Littlefinger' Baelish	Unknown	10	30
+Petyr 'Littlefinger' Baelish	Unknown	11	30
+Petyr 'Littlefinger' Baelish	Unknown	12	30
+Petyr 'Littlefinger' Baelish	Unknown	13	30
+Petyr 'Littlefinger' Baelish	Unknown	14	30
+Petyr 'Littlefinger' Baelish	Unknown	15	30
+Petyr 'Littlefinger' Baelish	Unknown	16	30
+Petyr 'Littlefinger' Baelish	Unknown	20	30
+Petyr 'Littlefinger' Baelish	Unknown	21	30
+Petyr 'Littlefinger' Baelish	Unknown	23	30
+Petyr 'Littlefinger' Baelish	Unknown	25	30
+Petyr 'Littlefinger' Baelish	Unknown	26	30
+Petyr 'Littlefinger' Baelish	Unknown	33	30
+Petyr 'Littlefinger' Baelish	Unknown	34	30
+Petyr 'Littlefinger' Baelish	Unknown	35	30
+Petyr 'Littlefinger' Baelish	Unknown	37	30
+Petyr 'Littlefinger' Baelish	Unknown	38	30
+Petyr 'Littlefinger' Baelish	Unknown	41	30
+Petyr 'Littlefinger' Baelish	Unknown	42	30
+Petyr 'Littlefinger' Baelish	Unknown	43	30
+Petyr 'Littlefinger' Baelish	Unknown	44	30
+Petyr 'Littlefinger' Baelish	Unknown	46	30
+Petyr 'Littlefinger' Baelish	Unknown	47	30
+Sandor 'The Hound' Clegane	Unknown	1	27
+Sandor 'The Hound' Clegane	Unknown	2	27
+Grand Maester Pycelle	Unknown	3	27
+Sandor 'The Hound' Clegane	Unknown	4	27
+Grand Maester Pycelle	Unknown	4	27
+Sandor 'The Hound' Clegane	Unknown	5	27
+Grand Maester Pycelle	Unknown	5	27
+Grand Maester Pycelle	Unknown	6	27
+Sandor 'The Hound' Clegane	Unknown	7	27
+Tywin Lannister	Unknown	7	27
+Grand Maester Pycelle	Unknown	7	27
+Sandor 'The Hound' Clegane	Unknown	8	27
+Tywin Lannister	Unknown	8	27
+Grand Maester Pycelle	Unknown	8	27
+Sandor 'The Hound' Clegane	Unknown	9	27
+Tywin Lannister	Unknown	9	27
+Grand Maester Pycelle	Unknown	9	27
+Sandor 'The Hound' Clegane	Unknown	10	27
+Tywin Lannister	Unknown	10	27
+Grand Maester Pycelle	Unknown	10	27
+Sandor 'The Hound' Clegane	Unknown	11	27
+Grand Maester Pycelle	Unknown	11	27
+Grand Maester Pycelle	Unknown	12	27
+Grand Maester Pycelle	Unknown	13	27
+Tywin Lannister	Unknown	14	27
+Sandor 'The Hound' Clegane	Unknown	14	27
+Tywin Lannister	Unknown	15	27
+Tywin Lannister	Unknown	16	27
+Sandor 'The Hound' Clegane	Unknown	16	27
+Tywin Lannister	Unknown	17	27
+Sandor 'The Hound' Clegane	Unknown	17	27
+Tywin Lannister	Unknown	18	27
+Tywin Lannister	Unknown	19	27
+Sandor 'The Hound' Clegane	Unknown	19	27
+Grand Maester Pycelle	Unknown	19	27
+Tywin Lannister	Unknown	20	27
+Grand Maester Pycelle	Unknown	20	27
+Tywin Lannister	Unknown	21	27
+Sandor 'The Hound' Clegane	Unknown	22	27
+Tywin Lannister	Unknown	23	27
+Sandor 'The Hound' Clegane	Unknown	23	27
+Grand Maester Pycelle	Unknown	23	27
+Tywin Lannister	Unknown	24	27
+Sandor 'The Hound' Clegane	Unknown	24	27
+Tywin Lannister	Unknown	25	27
+Sandor 'The Hound' Clegane	Unknown	25	27
+Tywin Lannister	Unknown	26	27
+Tywin Lannister	Unknown	27	27
+Sandor 'The Hound' Clegane	Unknown	27	27
+Tywin Lannister	Unknown	28	27
+Sandor 'The Hound' Clegane	Unknown	28	27
+Grand Maester Pycelle	Unknown	28	27
+Sandor 'The Hound' Clegane	Unknown	29	27
+Tywin Lannister	Unknown	30	27
+Sandor 'The Hound' Clegane	Unknown	30	27
+Grand Maester Pycelle	Unknown	30	27
+Tywin Lannister	Unknown	31	27
+Sandor 'The Hound' Clegane	Unknown	31	27
+Tywin Lannister	Unknown	32	27
+Grand Maester Pycelle	Unknown	32	27
+Tywin Lannister	Unknown	33	27
+Sandor 'The Hound' Clegane	Unknown	33	27
+Grand Maester Pycelle	Unknown	33	27
+Tywin Lannister	Unknown	35	27
+Sandor 'The Hound' Clegane	Unknown	35	27
+Grand Maester Pycelle	Unknown	35	27
+Tywin Lannister	Unknown	36	27
+Grand Maester Pycelle	Unknown	36	27
+Sandor 'The Hound' Clegane	Unknown	37	27
+Tywin Lannister	Unknown	38	27
+Sandor 'The Hound' Clegane	Unknown	38	27
+Grand Maester Pycelle	Unknown	38	27
+Tywin Lannister	Unknown	40	27
+Sandor 'The Hound' Clegane	Unknown	40	27
+Grand Maester Pycelle	Unknown	40	27
+Tywin Lannister	Unknown	41	27
+Grand Maester Pycelle	Unknown	41	27
+Grand Maester Pycelle	Unknown	42	27
+Grand Maester Pycelle	Unknown	43	27
+Grand Maester Pycelle	Unknown	44	27
+Grand Maester Pycelle	Unknown	50	27
+Joffrey Baratheon	Unknown	1	26
+Joffrey Baratheon	Unknown	2	26
+Joffrey Baratheon	Unknown	3	26
+Lord Varys	Unknown	3	26
+Joffrey Baratheon	Unknown	4	26
+Lord Varys	Unknown	4	26
+Bronn	Unknown	4	26
+Joffrey Baratheon	Unknown	5	26
+Lord Varys	Unknown	5	26
+Bronn	Unknown	5	26
+Joffrey Baratheon	Unknown	6	26
+Bronn	Unknown	6	26
+Joffrey Baratheon	Unknown	7	26
+Lord Varys	Unknown	7	26
+Joffrey Baratheon	Unknown	8	26
+Lord Varys	Unknown	8	26
+Bronn	Unknown	8	26
+Joffrey Baratheon	Unknown	9	26
+Lord Varys	Unknown	9	26
+Bronn	Unknown	9	26
+Joffrey Baratheon	Unknown	10	26
+Lord Varys	Unknown	10	26
+Joffrey Baratheon	Unknown	11	26
+Bronn	Unknown	11	26
+Lord Varys	Unknown	11	26
+Bronn	Unknown	12	26
+Lord Varys	Unknown	12	26
+Bronn	Unknown	13	26
+Lord Varys	Unknown	13	26
+Brienne of Tarth	Unknown	13	26
+Joffrey Baratheon	Unknown	14	26
+Bronn	Unknown	14	26
+Brienne of Tarth	Unknown	14	26
+Bronn	Unknown	15	26
+Brienne of Tarth	Unknown	15	26
+Joffrey Baratheon	Unknown	16	26
+Brienne of Tarth	Unknown	16	26
+Brienne of Tarth	Unknown	17	26
+Joffrey Baratheon	Unknown	18	26
+Bronn	Unknown	18	26
+Lord Varys	Unknown	18	26
+Brienne of Tarth	Unknown	18	26
+Joffrey Baratheon	Unknown	19	26
+Bronn	Unknown	19	26
+Lord Varys	Unknown	19	26
+Joffrey Baratheon	Unknown	20	26
+Lord Varys	Unknown	20	26
+Brienne of Tarth	Unknown	20	26
+Joffrey Baratheon	Unknown	21	26
+Bronn	Unknown	21	26
+Joffrey Baratheon	Unknown	22	26
+Brienne of Tarth	Unknown	22	26
+Lord Varys	Unknown	23	26
+Bronn	Unknown	23	26
+Brienne of Tarth	Unknown	23	26
+Joffrey Baratheon	Unknown	24	26
+Lord Varys	Unknown	24	26
+Brienne of Tarth	Unknown	24	26
+Brienne of Tarth	Unknown	25	26
+Joffrey Baratheon	Unknown	26	26
+Lord Varys	Unknown	26	26
+Brienne of Tarth	Unknown	26	26
+Joffrey Baratheon	Unknown	27	26
+Bronn	Unknown	27	26
+Brienne of Tarth	Unknown	27	26
+Joffrey Baratheon	Unknown	28	26
+Lord Varys	Unknown	28	26
+Bronn	Unknown	28	26
+Joffrey Baratheon	Unknown	30	26
+Lord Varys	Unknown	30	26
+Brienne of Tarth	Unknown	30	26
+Joffrey Baratheon	Unknown	31	26
+Brienne of Tarth	Unknown	31	26
+Bronn	Unknown	31	26
+Joffrey Baratheon	Unknown	32	26
+Brienne of Tarth	Unknown	32	26
+Lord Varys	Unknown	32	26
+Bronn	Unknown	32	26
+Joffrey Baratheon	Unknown	33	26
+Brienne of Tarth	Unknown	34	26
+Bronn	Unknown	34	26
+Brienne of Tarth	Unknown	35	26
+Lord Varys	Unknown	36	26
+Brienne of Tarth	Unknown	37	26
+Bronn	Unknown	37	26
+Lord Varys	Unknown	38	26
+Brienne of Tarth	Unknown	40	26
+Lord Varys	Unknown	40	26
+Lord Varys	Unknown	41	26
+Brienne of Tarth	Unknown	41	26
+Lord Varys	Unknown	42	26
+Bronn	Unknown	42	26
+Brienne of Tarth	Unknown	42	26
+Lord Varys	Unknown	43	26
+Brienne of Tarth	Unknown	43	26
+Bronn	Unknown	44	26
+Brienne of Tarth	Unknown	45	26
+Bronn	Unknown	46	26
+Brienne of Tarth	Unknown	47	26
+Bronn	Unknown	47	26
+Bronn	Unknown	49	26
+Lord Varys	Unknown	50	26
+Bronn	Unknown	50	26
+Brienne of Tarth	Unknown	50	26
+Catelyn Stark	Unknown	1	25
+Bran Stark	Unknown	1	25
+Catelyn Stark	Unknown	2	25
+Bran Stark	Unknown	2	25
+Catelyn Stark	Unknown	3	25
+Bran Stark	Unknown	3	25
+Catelyn Stark	Unknown	4	25
+Bran Stark	Unknown	4	25
+Catelyn Stark	Unknown	5	25
+Bran Stark	Unknown	5	25
+Catelyn Stark	Unknown	6	25
+Bran Stark	Unknown	6	25
+Catelyn Stark	Unknown	8	25
+Bran Stark	Unknown	8	25
+Catelyn Stark	Unknown	9	25
+Catelyn Stark	Unknown	10	25
+Bran Stark	Unknown	10	25
+Catelyn Stark	Unknown	11	25
+Bran Stark	Unknown	11	25
+Catelyn Stark	Unknown	13	25
+Bran Stark	Unknown	13	25
+Catelyn Stark	Unknown	14	25
+Catelyn Stark	Unknown	15	25
+Bran Stark	Unknown	15	25
+Catelyn Stark	Unknown	16	25
+Bran Stark	Unknown	16	25
+Catelyn Stark	Unknown	17	25
+Bran Stark	Unknown	17	25
+Catelyn Stark	Unknown	18	25
+Bran Stark	Unknown	18	25
+Catelyn Stark	Unknown	20	25
+Bran Stark	Unknown	20	25
+Catelyn Stark	Unknown	21	25
+Catelyn Stark	Unknown	22	25
+Bran Stark	Unknown	22	25
+Catelyn Stark	Unknown	23	25
+Catelyn Stark	Unknown	24	25
+Bran Stark	Unknown	24	25
+Catelyn Stark	Unknown	25	25
+Catelyn Stark	Unknown	26	25
+Bran Stark	Unknown	26	25
+Catelyn Stark	Unknown	27	25
+Bran Stark	Unknown	27	25
+Catelyn Stark	Unknown	29	25
+Bran Stark	Unknown	29	25
+Bran Stark	Unknown	30	25
+Bran Stark	Unknown	32	25
+Bran Stark	Unknown	34	25
+Bran Stark	Unknown	35	25
+Bran Stark	Unknown	40	25
+Barristan Selmy	Unknown	3	24
+Barristan Selmy	Unknown	4	24
+Barristan Selmy	Unknown	5	24
+Barristan Selmy	Unknown	6	24
+Barristan Selmy	Unknown	7	24
+Barristan Selmy	Unknown	8	24
+Stannis Baratheon	Unknown	11	24
+Eddison Tollett	Unknown	11	24
+Stannis Baratheon	Unknown	12	24
+Eddison Tollett	Unknown	12	24
+Stannis Baratheon	Unknown	14	24
+Stannis Baratheon	Unknown	15	24
+Eddison Tollett	Unknown	15	24
+Stannis Baratheon	Unknown	18	24
+Eddison Tollett	Unknown	18	24
+Stannis Baratheon	Unknown	19	24
+Stannis Baratheon	Unknown	20	24
+Eddison Tollett	Unknown	20	24
+Stannis Baratheon	Unknown	21	24
+Barristan Selmy	Unknown	21	24
+Eddison Tollett	Unknown	21	24
+Eddison Tollett	Unknown	22	24
+Stannis Baratheon	Unknown	23	24
+Barristan Selmy	Unknown	23	24
+Eddison Tollett	Unknown	23	24
+Barristan Selmy	Unknown	24	24
+Eddison Tollett	Unknown	24	24
+Stannis Baratheon	Unknown	25	24
+Barristan Selmy	Unknown	25	24
+Barristan Selmy	Unknown	27	24
+Stannis Baratheon	Unknown	28	24
+Barristan Selmy	Unknown	28	24
+Barristan Selmy	Unknown	29	24
+Stannis Baratheon	Unknown	30	24
+Barristan Selmy	Unknown	30	24
+Barristan Selmy	Unknown	31	24
+Stannis Baratheon	Unknown	32	24
+Stannis Baratheon	Unknown	33	24
+Eddison Tollett	Unknown	33	24
+Barristan Selmy	Unknown	34	24
+Eddison Tollett	Unknown	34	24
+Barristan Selmy	Unknown	35	24
+Eddison Tollett	Unknown	35	24
+Stannis Baratheon	Unknown	36	24
+Barristan Selmy	Unknown	36	24
+Eddison Tollett	Unknown	37	24
+Barristan Selmy	Unknown	38	24
+Eddison Tollett	Unknown	38	24
+Eddison Tollett	Unknown	39	24
+Stannis Baratheon	Unknown	40	24
+Barristan Selmy	Unknown	40	24
+Eddison Tollett	Unknown	40	24
+Stannis Baratheon	Unknown	41	24
+Barristan Selmy	Unknown	41	24
+Eddison Tollett	Unknown	41	24
+Stannis Baratheon	Unknown	42	24
+Barristan Selmy	Unknown	42	24
+Eddison Tollett	Unknown	42	24
+Stannis Baratheon	Unknown	43	24
+Eddison Tollett	Unknown	43	24
+Stannis Baratheon	Unknown	44	24
+Barristan Selmy	Unknown	44	24
+Eddison Tollett	Unknown	44	24
+Stannis Baratheon	Unknown	45	24
+Barristan Selmy	Unknown	45	24
+Eddison Tollett	Unknown	45	24
+Stannis Baratheon	Unknown	47	24
+Eddison Tollett	Unknown	47	24
+Eddison Tollett	Unknown	48	24
+Stannis Baratheon	Unknown	49	24
+Eddison Tollett	Unknown	49	24
+Stannis Baratheon	Unknown	50	24
+Grenn	Unknown	3	22
+Grenn	Unknown	4	22
+Grenn	Unknown	7	22
+Grenn	Unknown	8	22
+Grenn	Unknown	9	22
+Grenn	Unknown	10	22
+Grenn	Unknown	11	22
+Grenn	Unknown	12	22
+Podrick Payne	Unknown	12	22
+Grenn	Unknown	15	22
+Grenn	Unknown	18	22
+Podrick Payne	Unknown	18	22
+Podrick Payne	Unknown	19	22
+Grenn	Unknown	20	22
+Podrick Payne	Unknown	20	22
+Grenn	Unknown	21	22
+Podrick Payne	Unknown	21	22
+Missandei	Unknown	21	22
+Grenn	Unknown	22	22
+Grenn	Unknown	23	22
+Podrick Payne	Unknown	23	22
+Missandei	Unknown	23	22
+Grenn	Unknown	24	22
+Missandei	Unknown	24	22
+Missandei	Unknown	25	22
+Podrick Payne	Unknown	25	22
+Missandei	Unknown	27	22
+Missandei	Unknown	28	22
+Podrick Payne	Unknown	28	22
+Missandei	Unknown	29	22
+Podrick Payne	Unknown	30	22
+Missandei	Unknown	30	22
+Missandei	Unknown	31	22
+Podrick Payne	Unknown	31	22
+Podrick Payne	Unknown	32	22
+Missandei	Unknown	33	22
+Grenn	Unknown	33	22
+Podrick Payne	Unknown	33	22
+Missandei	Unknown	34	22
+Grenn	Unknown	34	22
+Podrick Payne	Unknown	34	22
+Missandei	Unknown	35	22
+Podrick Payne	Unknown	35	22
+Grenn	Unknown	35	22
+Missandei	Unknown	36	22
+Grenn	Unknown	37	22
+Podrick Payne	Unknown	37	22
+Missandei	Unknown	38	22
+Grenn	Unknown	38	22
+Grenn	Unknown	39	22
+Missandei	Unknown	40	22
+Grenn	Unknown	40	22
+Podrick Payne	Unknown	40	22
+Missandei	Unknown	41	22
+Podrick Payne	Unknown	41	22
+Missandei	Unknown	42	22
+Podrick Payne	Unknown	42	22
+Podrick Payne	Unknown	43	22
+Missandei	Unknown	44	22
+Missandei	Unknown	45	22
+Podrick Payne	Unknown	45	22
+Podrick Payne	Unknown	47	22
+Missandei	Unknown	48	22
+Missandei	Unknown	49	22
+Missandei	Unknown	50	22
+Podrick Payne	Unknown	50	22
+Robb Stark	Unknown	1	21
+Hodor	Unknown	1	21
+Robb Stark	Unknown	2	21
+Robb Stark	Unknown	3	21
+Robb Stark	Unknown	4	21
+Hodor	Unknown	4	21
+Robb Stark	Unknown	6	21
+Hodor	Unknown	6	21
+Robb Stark	Unknown	8	21
+Hodor	Unknown	8	21
+Robb Stark	Unknown	9	21
+Robb Stark	Unknown	10	21
+Hodor	Unknown	10	21
+Davos Seaworth	Unknown	11	21
+Robb Stark	Unknown	11	21
+Hodor	Unknown	11	21
+Davos Seaworth	Unknown	12	21
+Margaery Tyrell	Unknown	13	21
+Hodor	Unknown	13	21
+Davos Seaworth	Unknown	14	21
+Robb Stark	Unknown	14	21
+Margaery Tyrell	Unknown	14	21
+Davos Seaworth	Unknown	15	21
+Margaery Tyrell	Unknown	15	21
+Hodor	Unknown	15	21
+Robb Stark	Unknown	16	21
+Hodor	Unknown	16	21
+Robb Stark	Unknown	17	21
+Hodor	Unknown	17	21
+Davos Seaworth	Unknown	18	21
+Robb Stark	Unknown	18	21
+Hodor	Unknown	18	21
+Davos Seaworth	Unknown	19	21
+Robb Stark	Unknown	20	21
+Margaery Tyrell	Unknown	20	21
+Hodor	Unknown	20	21
+Robb Stark	Unknown	21	21
+Davos Seaworth	Unknown	21	21
+Margaery Tyrell	Unknown	21	21
+Robb Stark	Unknown	22	21
+Margaery Tyrell	Unknown	22	21
+Hodor	Unknown	22	21
+Robb Stark	Unknown	23	21
+Margaery Tyrell	Unknown	24	21
+Robb Stark	Unknown	25	21
+Davos Seaworth	Unknown	25	21
+Margaery Tyrell	Unknown	25	21
+Robb Stark	Unknown	26	21
+Hodor	Unknown	26	21
+Robb Stark	Unknown	27	21
+Margaery Tyrell	Unknown	27	21
+Hodor	Unknown	27	21
+Davos Seaworth	Unknown	28	21
+Margaery Tyrell	Unknown	28	21
+Robb Stark	Unknown	29	21
+Hodor	Unknown	29	21
+Davos Seaworth	Unknown	30	21
+Hodor	Unknown	30	21
+Margaery Tyrell	Unknown	31	21
+Margaery Tyrell	Unknown	32	21
+Davos Seaworth	Unknown	32	21
+Hodor	Unknown	32	21
+Margaery Tyrell	Unknown	33	21
+Davos Seaworth	Unknown	33	21
+Margaery Tyrell	Unknown	34	21
+Hodor	Unknown	34	21
+Margaery Tyrell	Unknown	35	21
+Hodor	Unknown	35	21
+Margaery Tyrell	Unknown	36	21
+Davos Seaworth	Unknown	36	21
+Davos Seaworth	Unknown	40	21
+Hodor	Unknown	40	21
+Margaery Tyrell	Unknown	41	21
+Davos Seaworth	Unknown	41	21
+Davos Seaworth	Unknown	42	21
+Margaery Tyrell	Unknown	43	21
+Davos Seaworth	Unknown	43	21
+Margaery Tyrell	Unknown	44	21
+Davos Seaworth	Unknown	45	21
+Margaery Tyrell	Unknown	46	21
+Margaery Tyrell	Unknown	47	21
+Davos Seaworth	Unknown	47	21
+Davos Seaworth	Unknown	49	21
+Davos Seaworth	Unknown	50	21
+Shae	Unknown	9	20
+Shae	Unknown	10	20
+Shae	Unknown	11	20
+Shae	Unknown	12	20
+Shae	Unknown	13	20
+Shae	Unknown	16	20
+Shae	Unknown	17	20
+Shae	Unknown	18	20
+Shae	Unknown	19	20
+Shae	Unknown	20	20
+Shae	Unknown	21	20
+Shae	Unknown	22	20
+Shae	Unknown	26	20
+Shae	Unknown	27	20
+Shae	Unknown	28	20
+Shae	Unknown	30	20
+Shae	Unknown	31	20
+Shae	Unknown	32	20
+Shae	Unknown	36	20
+Shae	Unknown	40	20
+Loras Tyrell	Unknown	5	19
+Loras Tyrell	Unknown	6	19
+Melisandre	Unknown	11	19
+Melisandre	Unknown	12	19
+Loras Tyrell	Unknown	13	19
+Melisandre	Unknown	14	19
+Loras Tyrell	Unknown	14	19
+Loras Tyrell	Unknown	15	19
+Loras Tyrell	Unknown	19	19
+Melisandre	Unknown	20	19
+Loras Tyrell	Unknown	20	19
+Melisandre	Unknown	21	19
+Loras Tyrell	Unknown	21	19
+Loras Tyrell	Unknown	22	19
+Melisandre	Unknown	23	19
+Loras Tyrell	Unknown	25	19
+Melisandre	Unknown	26	19
+Loras Tyrell	Unknown	26	19
+Melisandre	Unknown	27	19
+Melisandre	Unknown	28	19
+Loras Tyrell	Unknown	28	19
+Melisandre	Unknown	30	19
+Melisandre	Unknown	32	19
+Loras Tyrell	Unknown	32	19
+Loras Tyrell	Unknown	35	19
+Loras Tyrell	Unknown	36	19
+Melisandre	Unknown	37	19
+Melisandre	Unknown	40	19
+Melisandre	Unknown	41	19
+Loras Tyrell	Unknown	41	19
+Loras Tyrell	Unknown	43	19
+Melisandre	Unknown	44	19
+Loras Tyrell	Unknown	44	19
+Melisandre	Unknown	45	19
+Loras Tyrell	Unknown	46	19
+Melisandre	Unknown	47	19
+Melisandre	Unknown	49	19
+Melisandre	Unknown	50	19
+Tommen Baratheon	Unknown	1	18
+Tommen Baratheon	Unknown	2	18
+Tommen Baratheon	Unknown	4	18
+Tommen Baratheon	Unknown	5	18
+Gilly	Unknown	11	18
+Tommen Baratheon	Unknown	11	18
+Gilly	Unknown	12	18
+Gilly	Unknown	13	18
+Tommen Baratheon	Unknown	13	18
+Tommen Baratheon	Unknown	16	18
+Tommen Baratheon	Unknown	19	18
+Gilly	Unknown	23	18
+Gilly	Unknown	24	18
+Gilly	Unknown	26	18
+Gilly	Unknown	28	18
+Gilly	Unknown	29	18
+Gilly	Unknown	30	18
+Tommen Baratheon	Unknown	32	18
+Gilly	Unknown	33	18
+Tommen Baratheon	Unknown	33	18
+Tommen Baratheon	Unknown	34	18
+Tommen Baratheon	Unknown	35	18
+Tommen Baratheon	Unknown	36	18
+Gilly	Unknown	38	18
+Gilly	Unknown	39	18
+Gilly	Unknown	41	18
+Tommen Baratheon	Unknown	41	18
+Gilly	Unknown	42	18
+Tommen Baratheon	Unknown	43	18
+Tommen Baratheon	Unknown	44	18
+Gilly	Unknown	45	18
+Tommen Baratheon	Unknown	46	18
+Gilly	Unknown	47	18
+Tommen Baratheon	Unknown	47	18
+Gilly	Unknown	48	18
+Gilly	Unknown	50	18
+Gendry	Unknown	4	17
+Meryn Trant	Unknown	8	17
+Gendry	Unknown	10	17
+Meryn Trant	Unknown	10	17
+Gendry	Unknown	11	17
+Meryn Trant	Unknown	11	17
+Gendry	Unknown	12	17
+Gendry	Unknown	13	17
+Roose Bolton	Unknown	14	17
+Gendry	Unknown	14	17
+Meryn Trant	Unknown	14	17
+Gendry	Unknown	15	17
+Roose Bolton	Unknown	16	17
+Ygritte	Unknown	16	17
+Meryn Trant	Unknown	16	17
+Roose Bolton	Unknown	17	17
+Ygritte	Unknown	17	17
+Roose Bolton	Unknown	18	17
+Ygritte	Unknown	18	17
+Gendry	Unknown	18	17
+Ygritte	Unknown	20	17
+Gendry	Unknown	20	17
+Ygritte	Unknown	21	17
+Roose Bolton	Unknown	21	17
+Tormund Giantsbane	Unknown	21	17
+Meryn Trant	Unknown	21	17
+Gendry	Unknown	22	17
+Ygritte	Unknown	22	17
+Roose Bolton	Unknown	22	17
+Tormund Giantsbane	Unknown	22	17
+Gendry	Unknown	23	17
+Ygritte	Unknown	23	17
+Tormund Giantsbane	Unknown	23	17
+Gendry	Unknown	24	17
+Gendry	Unknown	25	17
+Ygritte	Unknown	25	17
+Roose Bolton	Unknown	25	17
+Tormund Giantsbane	Unknown	25	17
+Grey Worm	Unknown	25	17
+Gendry	Unknown	26	17
+Ygritte	Unknown	26	17
+Roose Bolton	Unknown	26	17
+Tormund Giantsbane	Unknown	26	17
+Gendry	Unknown	27	17
+Ygritte	Unknown	27	17
+Roose Bolton	Unknown	27	17
+Tormund Giantsbane	Unknown	27	17
+Grey Worm	Unknown	27	17
+Gendry	Unknown	28	17
+Grey Worm	Unknown	28	17
+Meryn Trant	Unknown	28	17
+Ygritte	Unknown	29	17
+Roose Bolton	Unknown	29	17
+Tormund Giantsbane	Unknown	29	17
+Grey Worm	Unknown	29	17
+Ygritte	Unknown	30	17
+Gendry	Unknown	30	17
+Roose Bolton	Unknown	30	17
+Grey Worm	Unknown	30	17
+Ygritte	Unknown	31	17
+Tormund Giantsbane	Unknown	31	17
+Grey Worm	Unknown	31	17
+Meryn Trant	Unknown	31	17
+Roose Bolton	Unknown	32	17
+Meryn Trant	Unknown	32	17
+Ygritte	Unknown	33	17
+Tormund Giantsbane	Unknown	33	17
+Grey Worm	Unknown	33	17
+Meryn Trant	Unknown	33	17
+Grey Worm	Unknown	34	17
+Grey Worm	Unknown	35	17
+Grey Worm	Unknown	36	17
+Meryn Trant	Unknown	36	17
+Ygritte	Unknown	38	17
+Tormund Giantsbane	Unknown	38	17
+Roose Bolton	Unknown	38	17
+Grey Worm	Unknown	38	17
+Ygritte	Unknown	39	17
+Tormund Giantsbane	Unknown	39	17
+Ygritte	Unknown	40	17
+Tormund Giantsbane	Unknown	40	17
+Grey Worm	Unknown	40	17
+Tormund Giantsbane	Unknown	41	17
+Grey Worm	Unknown	41	17
+Meryn Trant	Unknown	41	17
+Grey Worm	Unknown	42	17
+Meryn Trant	Unknown	42	17
+Roose Bolton	Unknown	43	17
+Meryn Trant	Unknown	43	17
+Grey Worm	Unknown	44	17
+Meryn Trant	Unknown	44	17
+Tormund Giantsbane	Unknown	45	17
+Roose Bolton	Unknown	45	17
+Grey Worm	Unknown	45	17
+Roose Bolton	Unknown	46	17
+Tormund Giantsbane	Unknown	47	17
+Tormund Giantsbane	Unknown	48	17
+Roose Bolton	Unknown	48	17
+Tormund Giantsbane	Unknown	49	17
+Meryn Trant	Unknown	49	17
+Meryn Trant	Unknown	50	17
+Grey Worm	Unknown	50	17
+Alliser Thorne	Unknown	3	16
+Alliser Thorne	Unknown	4	16
+Alliser Thorne	Unknown	7	16
+Alliser Thorne	Unknown	8	16
+Alliser Thorne	Unknown	31	16
+Alliser Thorne	Unknown	33	16
+Alliser Thorne	Unknown	34	16
+Alliser Thorne	Unknown	37	16
+Alliser Thorne	Unknown	39	16
+Alliser Thorne	Unknown	41	16
+Alliser Thorne	Unknown	42	16
+Alliser Thorne	Unknown	43	16
+Alliser Thorne	Unknown	45	16
+Alliser Thorne	Unknown	47	16
+Alliser Thorne	Unknown	49	16
+Alliser Thorne	Unknown	50	16
+Daario Naharis	Unknown	28	15
+Daario Naharis	Unknown	29	15
+Daario Naharis	Unknown	30	15
+Daario Naharis	Unknown	31	15
+Daario Naharis	Unknown	33	15
+Daario Naharis	Unknown	34	15
+Daario Naharis	Unknown	35	15
+Daario Naharis	Unknown	37	15
+Daario Naharis	Unknown	41	15
+Daario Naharis	Unknown	42	15
+Daario Naharis	Unknown	44	15
+Daario Naharis	Unknown	45	15
+Daario Naharis	Unknown	47	15
+Daario Naharis	Unknown	49	15
+Daario Naharis	Unknown	50	15
+Maester Luwin	Unknown	1	14
+Ros	Unknown	1	14
+Maester Luwin	Unknown	2	14
+Maester Luwin	Unknown	4	14
+Janos Slynt	Unknown	4	14
+Maester Luwin	Unknown	5	14
+Ros	Unknown	5	14
+Ros	Unknown	6	14
+Maester Luwin	Unknown	7	14
+Janos Slynt	Unknown	7	14
+Ros	Unknown	7	14
+Maester Luwin	Unknown	8	14
+Janos Slynt	Unknown	8	14
+Maester Luwin	Unknown	10	14
+Ros	Unknown	10	14
+Maester Luwin	Unknown	11	14
+Ros	Unknown	11	14
+Janos Slynt	Unknown	11	14
+Janos Slynt	Unknown	12	14
+Ros	Unknown	12	14
+Maester Luwin	Unknown	13	14
+Ros	Unknown	14	14
+Maester Luwin	Unknown	15	14
+Maester Luwin	Unknown	16	14
+Maester Luwin	Unknown	17	14
+Maester Luwin	Unknown	18	14
+Ros	Unknown	18	14
+Maester Luwin	Unknown	20	14
+Ros	Unknown	20	14
+Ros	Unknown	21	14
+Ros	Unknown	23	14
+Ros	Unknown	24	14
+Ros	Unknown	26	14
+Janos Slynt	Unknown	31	14
+Janos Slynt	Unknown	33	14
+Olly	Unknown	33	14
+Janos Slynt	Unknown	34	14
+Olly	Unknown	34	14
+Janos Slynt	Unknown	37	14
+Olly	Unknown	37	14
+Janos Slynt	Unknown	39	14
+Olly	Unknown	39	14
+Janos Slynt	Unknown	40	14
+Olly	Unknown	40	14
+Janos Slynt	Unknown	41	14
+Olly	Unknown	41	14
+Janos Slynt	Unknown	42	14
+Olly	Unknown	42	14
+Janos Slynt	Unknown	43	14
+Olly	Unknown	43	14
+Olly	Unknown	44	14
+Olly	Unknown	45	14
+Olly	Unknown	47	14
+Olly	Unknown	48	14
+Olly	Unknown	49	14
+Olly	Unknown	50	14
+Myrcella Baratheon	Unknown	1	13
+Irri	Unknown	2	13
+Myrcella Baratheon	Unknown	2	13
+Pypar	Unknown	3	13
+Irri	Unknown	3	13
+Pypar	Unknown	4	13
+Irri	Unknown	4	13
+Myrcella Baratheon	Unknown	4	13
+Myrcella Baratheon	Unknown	5	13
+Osha	Unknown	6	13
+Irri	Unknown	6	13
+Osha	Unknown	7	13
+Pypar	Unknown	7	13
+Irri	Unknown	7	13
+Osha	Unknown	8	13
+Pypar	Unknown	8	13
+Irri	Unknown	8	13
+Pypar	Unknown	9	13
+Irri	Unknown	9	13
+Osha	Unknown	10	13
+Pypar	Unknown	10	13
+Irri	Unknown	10	13
+Osha	Unknown	11	13
+Irri	Unknown	11	13
+Myrcella Baratheon	Unknown	11	13
+Irri	Unknown	12	13
+Myrcella Baratheon	Unknown	13	13
+Irri	Unknown	14	13
+Irri	Unknown	15	13
+Myrcella Baratheon	Unknown	15	13
+Osha	Unknown	16	13
+Irri	Unknown	16	13
+Myrcella Baratheon	Unknown	16	13
+Osha	Unknown	17	13
+Osha	Unknown	18	13
+Osha	Unknown	20	13
+Osha	Unknown	22	13
+Osha	Unknown	26	13
+Osha	Unknown	27	13
+Osha	Unknown	29	13
+Pypar	Unknown	30	13
+Pypar	Unknown	33	13
+Pypar	Unknown	34	13
+Pypar	Unknown	37	13
+Pypar	Unknown	38	13
+Pypar	Unknown	39	13
+Pypar	Unknown	40	13
+Myrcella Baratheon	Unknown	42	13
+Myrcella Baratheon	Unknown	46	13
+Myrcella Baratheon	Unknown	47	13
+Myrcella Baratheon	Unknown	49	13
+Myrcella Baratheon	Unknown	50	13
+Rodrik Cassel	Unknown	1	12
+Rickon Stark	Unknown	1	12
+Rodrik Cassel	Unknown	2	12
+Jeor Mormont	Unknown	3	12
+Rodrik Cassel	Unknown	3	12
+Lancel Lannister	Unknown	3	12
+Rodrik Cassel	Unknown	4	12
+Rodrik Cassel	Unknown	5	12
+Lancel Lannister	Unknown	5	12
+Rodrik Cassel	Unknown	6	12
+Lancel Lannister	Unknown	6	12
+Jeor Mormont	Unknown	7	12
+Jeor Mormont	Unknown	8	12
+Rodrik Cassel	Unknown	8	12
+Rickon Stark	Unknown	8	12
+Jeor Mormont	Unknown	9	12
+Rodrik Cassel	Unknown	9	12
+Jeor Mormont	Unknown	10	12
+Rodrik Cassel	Unknown	10	12
+Lancel Lannister	Unknown	10	12
+Rickon Stark	Unknown	10	12
+Jeor Mormont	Unknown	11	12
+Rodrik Cassel	Unknown	11	12
+Jaqen H'ghar	Unknown	12	12
+Jeor Mormont	Unknown	13	12
+Jaqen H'ghar	Unknown	13	12
+Lancel Lannister	Unknown	14	12
+Jeor Mormont	Unknown	15	12
+Rodrik Cassel	Unknown	15	12
+Jaqen H'ghar	Unknown	15	12
+Lancel Lannister	Unknown	15	12
+Rickon Stark	Unknown	15	12
+Rodrik Cassel	Unknown	16	12
+Jaqen H'ghar	Unknown	16	12
+Rickon Stark	Unknown	16	12
+Rickon Stark	Unknown	17	12
+Jaqen H'ghar	Unknown	18	12
+Rickon Stark	Unknown	18	12
+Lancel Lannister	Unknown	19	12
+Jaqen H'ghar	Unknown	20	12
+Rickon Stark	Unknown	20	12
+Jeor Mormont	Unknown	21	12
+Jeor Mormont	Unknown	22	12
+Rickon Stark	Unknown	22	12
+Jeor Mormont	Unknown	23	12
+Jeor Mormont	Unknown	24	12
+Rickon Stark	Unknown	26	12
+Rickon Stark	Unknown	27	12
+Rickon Stark	Unknown	29	12
+Lancel Lannister	Unknown	41	12
+Jaqen H'ghar	Unknown	42	12
+Jaqen H'ghar	Unknown	43	12
+Lancel Lannister	Unknown	43	12
+Lancel Lannister	Unknown	44	12
+Jaqen H'ghar	Unknown	46	12
+Lancel Lannister	Unknown	46	12
+Lancel Lannister	Unknown	47	12
+Jaqen H'ghar	Unknown	48	12
+Jaqen H'ghar	Unknown	49	12
+Jaqen H'ghar	Unknown	50	12
+Doreah	Unknown	2	11
+Maester Aemon	Unknown	3	11
+Doreah	Unknown	4	11
+Doreah	Unknown	6	11
+Maester Aemon	Unknown	7	11
+Doreah	Unknown	7	11
+Othell Yarwyck	Unknown	7	11
+Doreah	Unknown	8	11
+Othell Yarwyck	Unknown	8	11
+Maester Aemon	Unknown	9	11
+Doreah	Unknown	9	11
+Hot Pie	Unknown	10	11
+Hot Pie	Unknown	11	11
+Doreah	Unknown	11	11
+Doreah	Unknown	12	11
+Hot Pie	Unknown	12	11
+Hot Pie	Unknown	13	11
+Talisa Maegyr	Unknown	14	11
+Doreah	Unknown	14	11
+Hot Pie	Unknown	14	11
+Doreah	Unknown	15	11
+Hot Pie	Unknown	15	11
+Talisa Maegyr	Unknown	16	11
+Talisa Maegyr	Unknown	17	11
+Talisa Maegyr	Unknown	18	11
+Hot Pie	Unknown	18	11
+Talisa Maegyr	Unknown	20	11
+Hot Pie	Unknown	20	11
+Doreah	Unknown	20	11
+Talisa Maegyr	Unknown	21	11
+Qyburn	Unknown	21	11
+Talisa Maegyr	Unknown	22	11
+Olenna Tyrell	Unknown	22	11
+Hot Pie	Unknown	22	11
+Talisa Maegyr	Unknown	23	11
+Hot Pie	Unknown	23	11
+Olenna Tyrell	Unknown	24	11
+Talisa Maegyr	Unknown	25	11
+Olenna Tyrell	Unknown	25	11
+Qyburn	Unknown	25	11
+Olenna Tyrell	Unknown	26	11
+Talisa Maegyr	Unknown	27	11
+Qyburn	Unknown	27	11
+Olenna Tyrell	Unknown	28	11
+Talisa Maegyr	Unknown	29	11
+Maester Aemon	Unknown	30	11
+Qyburn	Unknown	30	11
+Olenna Tyrell	Unknown	31	11
+Maester Aemon	Unknown	31	11
+Qyburn	Unknown	31	11
+Othell Yarwyck	Unknown	31	11
+Olenna Tyrell	Unknown	32	11
+Olenna Tyrell	Unknown	33	11
+Maester Aemon	Unknown	33	11
+Othell Yarwyck	Unknown	33	11
+Olenna Tyrell	Unknown	34	11
+Hot Pie	Unknown	37	11
+Othell Yarwyck	Unknown	37	11
+Maester Aemon	Unknown	39	11
+Maester Aemon	Unknown	40	11
+Qyburn	Unknown	40	11
+Maester Aemon	Unknown	42	11
+Qyburn	Unknown	42	11
+Othell Yarwyck	Unknown	42	11
+Qyburn	Unknown	43	11
+Othell Yarwyck	Unknown	43	11
+Qyburn	Unknown	44	11
+Maester Aemon	Unknown	45	11
+Othell Yarwyck	Unknown	45	11
+Olenna Tyrell	Unknown	46	11
+Olenna Tyrell	Unknown	47	11
+Maester Aemon	Unknown	47	11
+Othell Yarwyck	Unknown	47	11
+Qyburn	Unknown	48	11
+Othell Yarwyck	Unknown	49	11
+Qyburn	Unknown	50	11
+Othell Yarwyck	Unknown	50	11
+Khal Drogo	Unknown	1	10
+Khal Drogo	Unknown	2	10
+Khal Drogo	Unknown	3	10
+Khal Drogo	Unknown	4	10
+Khal Drogo	Unknown	6	10
+Khal Drogo	Unknown	7	10
+Khal Drogo	Unknown	8	10
+Khal Drogo	Unknown	9	10
+Khal Drogo	Unknown	10	10
+Khal Drogo	Unknown	20	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	22	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	24	10
+Selyse Baratheon	Unknown	25	10
+Shireen Baratheon	Unknown	25	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	26	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	27	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	29	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	30	10
+Shireen Baratheon	Unknown	30	10
+Selyse Baratheon	Unknown	32	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	32	10
+Shireen Baratheon	Unknown	32	10
+Shireen Baratheon	Unknown	33	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	34	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	35	10
+Selyse Baratheon	Unknown	37	10
+Jojen Reed (as Thomas Brodie Sangster)	Unknown	40	10
+Selyse Baratheon	Unknown	40	10
+Shireen Baratheon	Unknown	40	10
+Selyse Baratheon	Unknown	41	10
+Shireen Baratheon	Unknown	41	10
+Selyse Baratheon	Unknown	42	10
+Shireen Baratheon	Unknown	42	10
+Selyse Baratheon	Unknown	44	10
+Shireen Baratheon	Unknown	44	10
+Selyse Baratheon	Unknown	45	10
+Shireen Baratheon	Unknown	45	10
+Selyse Baratheon	Unknown	49	10
+Shireen Baratheon	Unknown	49	10
+Selyse Baratheon	Unknown	50	10
+Eddard 'Ned' Stark	Unknown	1	9
+Eddard 'Ned' Stark	Unknown	2	9
+Eddard 'Ned' Stark	Unknown	3	9
+Eddard 'Ned' Stark	Unknown	4	9
+Gregor Clegane	Unknown	4	9
+Eddard 'Ned' Stark	Unknown	5	9
+Gregor Clegane	Unknown	5	9
+Eddard 'Ned' Stark	Unknown	6	9
+Eddard 'Ned' Stark	Unknown	7	9
+Eddard 'Ned' Stark	Unknown	8	9
+Eddard 'Ned' Stark	Unknown	9	9
+Gregor Clegane	Unknown	14	9
+Gregor Clegane	Unknown	17	9
+Gregor Clegane	Unknown	18	9
+Ramsay Snow	Unknown	22	9
+Meera Reed	Unknown	22	9
+Ramsay Snow	Unknown	23	9
+Ramsay Snow	Unknown	24	9
+Ramsay Snow	Unknown	26	9
+Meera Reed	Unknown	26	9
+Ramsay Snow	Unknown	27	9
+Meera Reed	Unknown	27	9
+Meera Reed	Unknown	29	9
+Ramsay Snow	Unknown	30	9
+Meera Reed	Unknown	30	9
+Ellaria Sand	Unknown	31	9
+Whore	Unknown	31	9
+Whore	Unknown	31	9
+Ramsay Snow	Unknown	32	9
+Ellaria Sand	Unknown	32	9
+Mace Tyrell	Unknown	32	9
+Meera Reed	Unknown	32	9
+Ellaria Sand	Unknown	33	9
+Whore	Unknown	33	9
+Meera Reed	Unknown	34	9
+Mace Tyrell	Unknown	35	9
+Meera Reed	Unknown	35	9
+Ramsay Snow	Unknown	36	9
+Mace Tyrell	Unknown	36	9
+Gregor Clegane	Unknown	37	9
+Ramsay Snow	Unknown	38	9
+Ellaria Sand	Unknown	38	9
+Mace Tyrell	Unknown	38	9
+Gregor Clegane	Unknown	38	9
+Meera Reed	Unknown	40	9
+Gregor Clegane	Unknown	40	9
+Mace Tyrell	Unknown	41	9
+Ellaria Sand	Unknown	42	9
+Mace Tyrell	Unknown	42	9
+Mace Tyrell	Unknown	43	9
+Ellaria Sand	Unknown	44	9
+Mace Tyrell	Unknown	44	9
+Whore	Unknown	44	9
+Whore	Unknown	44	9
+Whore	Unknown	44	9
+Whore	Unknown	44	9
+Whore	Unknown	44	9
+Whore	Unknown	44	9
+Ellaria Sand	Unknown	46	9
+Ellaria Sand	Unknown	49	9
+Mace Tyrell	Unknown	49	9
+Ellaria Sand	Unknown	50	9
+Gregor Clegane	Unknown	50	9
+Renly Baratheon	Unknown	3	8
+Renly Baratheon	Unknown	4	8
+Renly Baratheon	Unknown	5	8
+Renly Baratheon	Unknown	6	8
+Renly Baratheon	Unknown	7	8
+Kovarro	Unknown	11	8
+Kovarro	Unknown	12	8
+Renly Baratheon	Unknown	13	8
+Renly Baratheon	Unknown	14	8
+Kovarro	Unknown	14	8
+Renly Baratheon	Unknown	15	8
+Kovarro	Unknown	15	8
+Kovarro	Unknown	16	8
+Kovarro	Unknown	17	8
+Kovarro	Unknown	18	8
+Kovarro	Unknown	20	8
+Locke	Unknown	22	8
+Locke	Unknown	23	8
+Locke	Unknown	24	8
+Locke	Unknown	25	8
+Locke	Unknown	27	8
+Locke	Unknown	32	8
+Hizdahr zo Loraq	Unknown	33	8
+Locke	Unknown	34	8
+Locke	Unknown	35	8
+Hizdahr zo Loraq	Unknown	36	8
+Hizdahr zo Loraq	Unknown	41	8
+Hizdahr zo Loraq	Unknown	42	8
+Hizdahr zo Loraq	Unknown	44	8
+Hizdahr zo Loraq	Unknown	45	8
+Hizdahr zo Loraq	Unknown	47	8
+Hizdahr zo Loraq	Unknown	49	8
+Robert Baratheon	Unknown	1	7
+White Walker	Unknown	1	7
+White Walker	Unknown	1	7
+Robert Baratheon	Unknown	2	7
+Rast (as Luke McEwan)	Unknown	2	7
+Robert Baratheon	Unknown	3	7
+Yoren	Unknown	3	7
+Rast (as Luke McEwan)	Unknown	3	7
+Rakharo	Unknown	3	7
+Robert Baratheon	Unknown	4	7
+Yoren	Unknown	4	7
+Rast (as Luke McEwan)	Unknown	4	7
+Robert Baratheon	Unknown	5	7
+Yoren	Unknown	5	7
+Robin Arryn	Unknown	5	7
+Robert Baratheon	Unknown	6	7
+Robin Arryn	Unknown	6	7
+Rakharo	Unknown	6	7
+Robert Baratheon	Unknown	7	7
+Rast (as Luke McEwan)	Unknown	7	7
+Rakharo	Unknown	7	7
+Rast (as Luke McEwan)	Unknown	8	7
+Rakharo	Unknown	8	7
+Kevan Lannister	Unknown	8	7
+Robin Arryn	Unknown	8	7
+Yoren	Unknown	9	7
+Rast (as Luke McEwan)	Unknown	9	7
+Rakharo	Unknown	9	7
+Kevan Lannister	Unknown	9	7
+Yoren	Unknown	10	7
+Rakharo	Unknown	10	7
+Kevan Lannister	Unknown	10	7
+Rakharo	Unknown	11	7
+Yoren	Unknown	12	7
+White Walker	Unknown	12	7
+Yoren	Unknown	13	7
+High Septon	Unknown	16	7
+Kevan Lannister	Unknown	18	7
+White Walker	Unknown	20	7
+Rast (as Luke McEwan)	Unknown	24	7
+Olyvar	Unknown	25	7
+Myranda	Unknown	27	7
+High Septon	Unknown	28	7
+White Walker	Unknown	28	7
+Oberyn Martell	Unknown	31	7
+Olyvar	Unknown	31	7
+Oberyn Martell	Unknown	32	7
+Myranda	Unknown	32	7
+High Septon	Unknown	32	7
+Oberyn Martell	Unknown	33	7
+Olyvar	Unknown	33	7
+High Septon	Unknown	33	7
+White Walker	Unknown	34	7
+Oberyn Martell	Unknown	35	7
+Robin Arryn	Unknown	35	7
+High Septon	Unknown	35	7
+Oberyn Martell	Unknown	36	7
+Myranda	Unknown	36	7
+Oberyn Martell	Unknown	37	7
+Robin Arryn	Unknown	37	7
+Oberyn Martell	Unknown	38	7
+Robin Arryn	Unknown	38	7
+Olyvar	Unknown	41	7
+Kevan Lannister	Unknown	41	7
+High Septon	Unknown	41	7
+Bowen Marsh	Unknown	41	7
+Robin Arryn	Unknown	41	7
+Kevan Lannister	Unknown	42	7
+Bowen Marsh	Unknown	42	7
+Olyvar	Unknown	43	7
+Myranda	Unknown	43	7
+High Septon	Unknown	43	7
+Bowen Marsh	Unknown	43	7
+Olyvar	Unknown	44	7
+Myranda	Unknown	45	7
+Bowen Marsh	Unknown	45	7
+Olyvar	Unknown	46	7
+Myranda	Unknown	46	7
+Bowen Marsh	Unknown	47	7
+White Walker	Unknown	48	7
+Bowen Marsh	Unknown	49	7
+Myranda	Unknown	50	7
+Kevan Lannister	Unknown	50	7
+Bowen Marsh	Unknown	50	7
+Qotho	Unknown	1	6
+Septa Mordane	Unknown	1	6
+Qotho	Unknown	2	6
+Septa Mordane	Unknown	3	6
+Septa Mordane	Unknown	4	6
+Septa Mordane	Unknown	5	6
+Septa Mordane	Unknown	6	6
+Qotho	Unknown	6	6
+Qotho	Unknown	7	6
+Septa Mordane	Unknown	8	6
+Qotho	Unknown	8	6
+Qotho	Unknown	9	6
+Dontos Hollard	Unknown	11	6
+Marei	Unknown	11	6
+Yara Greyjoy	Unknown	12	6
+Marei	Unknown	12	6
+Yara Greyjoy	Unknown	13	6
+Dontos Hollard	Unknown	14	6
+Yara Greyjoy	Unknown	15	6
+Yara Greyjoy	Unknown	18	6
+Dontos Hollard	Unknown	19	6
+Orell	Unknown	22	6
+Thoros of Myr	Unknown	22	6
+Anguy	Unknown	22	6
+Orell	Unknown	23	6
+Thoros of Myr	Unknown	23	6
+Anguy	Unknown	23	6
+Marei	Unknown	23	6
+Thoros of Myr	Unknown	24	6
+Anguy	Unknown	24	6
+Thoros of Myr	Unknown	25	6
+Orell	Unknown	25	6
+Anguy	Unknown	25	6
+Thoros of Myr	Unknown	26	6
+Orell	Unknown	26	6
+Anguy	Unknown	26	6
+Orell	Unknown	27	6
+Thoros of Myr	Unknown	27	6
+Anguy	Unknown	27	6
+Orell	Unknown	29	6
+Yara Greyjoy	Unknown	30	6
+Dontos Hollard	Unknown	31	6
+Marei	Unknown	31	6
+Dontos Hollard	Unknown	32	6
+Dontos Hollard	Unknown	33	6
+Marei	Unknown	33	6
+Yara Greyjoy	Unknown	36	6
+Ramsay Bolton	Unknown	43	6
+Marei	Unknown	44	6
+Ramsay Bolton	Unknown	45	6
+Ramsay Bolton	Unknown	46	6
+Ramsay Bolton	Unknown	47	6
+Ramsay Bolton	Unknown	48	6
+Ramsay Bolton	Unknown	50	6
+Viserys Targaryen	Unknown	1	5
+Jory Cassel	Unknown	1	5
+Viserys Targaryen	Unknown	2	5
+Jory Cassel	Unknown	2	5
+Viserys Targaryen	Unknown	3	5
+Jory Cassel	Unknown	3	5
+Viserys Targaryen	Unknown	4	5
+Jory Cassel	Unknown	4	5
+Jory Cassel	Unknown	5	5
+Lysa Arryn	Unknown	5	5
+Viserys Targaryen	Unknown	6	5
+Lysa Arryn	Unknown	6	5
+Lysa Arryn	Unknown	8	5
+Craster	Unknown	11	5
+Craster	Unknown	12	5
+Craster	Unknown	13	5
+Xaro Xhoan Daxos	Unknown	14	5
+Xaro Xhoan Daxos	Unknown	15	5
+Dagmer Cleftjaw	Unknown	15	5
+Xaro Xhoan Daxos	Unknown	16	5
+Dagmer Cleftjaw	Unknown	16	5
+Xaro Xhoan Daxos	Unknown	17	5
+Dagmer Cleftjaw	Unknown	17	5
+Rickard Karstark	Unknown	17	5
+Dagmer Cleftjaw	Unknown	18	5
+Rickard Karstark	Unknown	18	5
+Xaro Xhoan Daxos	Unknown	20	5
+Dagmer Cleftjaw	Unknown	20	5
+Mance Rayder	Unknown	21	5
+Rickard Karstark	Unknown	21	5
+Rast	Unknown	21	5
+Mance Rayder	Unknown	22	5
+Rickard Karstark	Unknown	22	5
+Rast	Unknown	22	5
+Mance Rayder	Unknown	23	5
+Craster	Unknown	23	5
+Brynden 'Blackfish' Tully	Unknown	23	5
+Edmure Tully	Unknown	23	5
+Rast	Unknown	23	5
+Craster's Wife	Unknown	23	5
+Craster	Unknown	24	5
+Brynden 'Blackfish' Tully	Unknown	25	5
+Edmure Tully	Unknown	25	5
+Rickard Karstark	Unknown	25	5
+Brynden 'Blackfish' Tully	Unknown	26	5
+Edmure Tully	Unknown	26	5
+Brynden 'Blackfish' Tully	Unknown	27	5
+Edmure Tully	Unknown	27	5
+Brynden 'Blackfish' Tully	Unknown	29	5
+Edmure Tully	Unknown	29	5
+Yunkai Citizen	Unknown	30	5
+Yunkai Citizen	Unknown	30	5
+Yunkai Citizen	Unknown	30	5
+Yunkai Citizen	Unknown	30	5
+Yunkai Citizen	Unknown	30	5
+Rast	Unknown	34	5
+Craster's Wife	Unknown	34	5
+Craster's Wife	Unknown	34	5
+Craster's Wife	Unknown	34	5
+Lysa Arryn	Unknown	35	5
+Rast	Unknown	35	5
+Craster's Wife	Unknown	35	5
+Lysa Arryn	Unknown	37	5
+Mance Rayder	Unknown	40	5
+Mance Rayder	Unknown	41	5
+Areo Hotah (as DeObia Oparei)	Unknown	42	5
+High Sparrow	Unknown	43	5
+High Sparrow	Unknown	44	5
+Obara Sand	Unknown	44	5
+Tyene Sand	Unknown	44	5
+Nymeria Sand	Unknown	44	5
+High Sparrow	Unknown	46	5
+Areo Hotah (as DeObia Oparei)	Unknown	46	5
+Obara Sand	Unknown	46	5
+Tyene Sand	Unknown	46	5
+Nymeria Sand	Unknown	46	5
+High Sparrow	Unknown	47	5
+Areo Hotah (as DeObia Oparei)	Unknown	47	5
+Obara Sand	Unknown	47	5
+Tyene Sand	Unknown	47	5
+Nymeria Sand	Unknown	47	5
+Areo Hotah (as DeObia Oparei)	Unknown	49	5
+Obara Sand	Unknown	49	5
+Tyene Sand	Unknown	49	5
+Nymeria Sand	Unknown	49	5
+High Sparrow	Unknown	50	5
+Areo Hotah (as DeObia Oparei)	Unknown	50	5
+Obara Sand	Unknown	50	5
+Tyene Sand	Unknown	50	5
+Nymeria Sand	Unknown	50	5
+Ilyn Payne	Unknown	2	4
+King's Landing Page	Unknown	3	4
+Marillion	Unknown	4	4
+Marillion	Unknown	5	4
+King's Landing Page	Unknown	5	4
+Marillion	Unknown	6	4
+King's Landing Page	Unknown	7	4
+Armeca	Unknown	7	4
+King's Landing Page	Unknown	8	4
+Ilyn Payne	Unknown	9	4
+Marillion	Unknown	10	4
+Ilyn Payne	Unknown	10	4
+Lommy Greenhands	Unknown	10	4
+Lommy Greenhands	Unknown	11	4
+Matthos Seaworth	Unknown	11	4
+Armeca	Unknown	11	4
+Lommy Greenhands	Unknown	12	4
+Rorge	Unknown	12	4
+Matthos Seaworth	Unknown	12	4
+Armeca	Unknown	12	4
+Biter	Unknown	12	4
+Lommy Greenhands	Unknown	13	4
+Amory Lorch	Unknown	13	4
+Rorge	Unknown	13	4
+Biter	Unknown	13	4
+Pyat Pree	Unknown	14	4
+Amory Lorch	Unknown	14	4
+Pyat Pree	Unknown	15	4
+Qhorin Halfhand	Unknown	15	4
+Lorren	Unknown	15	4
+Amory Lorch	Unknown	15	4
+Qhorin Halfhand	Unknown	16	4
+Amory Lorch	Unknown	16	4
+Lorren	Unknown	16	4
+Rioter	Unknown	16	4
+Rioter	Unknown	16	4
+Rioter	Unknown	16	4
+Pyat Pree	Unknown	17	4
+Lorren	Unknown	17	4
+Rioter	Unknown	17	4
+Qhorin Halfhand	Unknown	18	4
+Rorge	Unknown	18	4
+Biter	Unknown	18	4
+Matthos Seaworth	Unknown	18	4
+Matthos Seaworth	Unknown	19	4
+Armeca	Unknown	19	4
+Ilyn Payne	Unknown	19	4
+Pyat Pree	Unknown	20	4
+Qhorin Halfhand	Unknown	20	4
+Lorren	Unknown	20	4
+Karl Tanner	Unknown	23	4
+Beric Dondarrion	Unknown	24	4
+Karl Tanner	Unknown	24	4
+Beric Dondarrion	Unknown	25	4
+Beric Dondarrion	Unknown	26	4
+Beric Dondarrion	Unknown	27	4
+Styr	Unknown	31	4
+Walda Bolton	Unknown	32	4
+Styr	Unknown	33	4
+Karl Tanner	Unknown	34	4
+Karl Tanner	Unknown	35	4
+Rorge	Unknown	37	4
+Biter	Unknown	37	4
+Styr	Unknown	38	4
+Styr	Unknown	39	4
+Doran Martell	Unknown	42	4
+Trystane Martell	Unknown	42	4
+Waif	Unknown	43	4
+Walda Bolton	Unknown	43	4
+Walda Bolton	Unknown	45	4
+Doran Martell	Unknown	46	4
+Waif	Unknown	46	4
+Trystane Martell	Unknown	46	4
+Walda Bolton	Unknown	46	4
+Waif	Unknown	48	4
+Karsi's Daughter	Unknown	48	4
+Karsi's Daughter	Unknown	48	4
+Doran Martell	Unknown	49	4
+Trystane Martell	Unknown	49	4
+Karsi's Daughter	Unknown	49	4
+Karsi's Daughter	Unknown	49	4
+Doran Martell	Unknown	50	4
+Waif	Unknown	50	4
+Trystane Martell	Unknown	50	4
+Benjen Stark	Unknown	1	3
+Benjen Stark	Unknown	2	3
+Benjen Stark	Unknown	3	3
+Syrio Forel	Unknown	3	3
+Gold Cloak	Unknown	5	3
+Syrio Forel	Unknown	6	3
+Syrio Forel	Unknown	8	3
+Greatjon Umber	Unknown	8	3
+Mirri Maz Duur	Unknown	8	3
+Walder Frey	Unknown	9	3
+Greatjon Umber	Unknown	9	3
+Mirri Maz Duur	Unknown	9	3
+Night's Watchman	Unknown	9	3
+Black Walder Rivers	Unknown	9	3
+Greatjon Umber	Unknown	10	3
+Mirri Maz Duur	Unknown	10	3
+Alton Lannister	Unknown	11	3
+Daisy	Unknown	11	3
+Balon Greyjoy	Unknown	12	3
+Salladhor Saan	Unknown	12	3
+Alton Lannister	Unknown	12	3
+Gold Cloak	Unknown	12	3
+Balon Greyjoy	Unknown	13	3
+Polliver	Unknown	13	3
+Daisy	Unknown	13	3
+Gold Cloak	Unknown	13	3
+Spice King	Unknown	14	3
+Lannister Guard	Unknown	14	3
+Polliver	Unknown	14	3
+Daisy	Unknown	14	3
+Silk King	Unknown	14	3
+Silk King	Unknown	15	3
+Spice King	Unknown	16	3
+Spice King	Unknown	17	3
+Alton Lannister	Unknown	17	3
+Handmaid	Unknown	17	3
+Silk King	Unknown	17	3
+Rattleshirt	Unknown	18	3
+Rattleshirt	Unknown	20	3
+Salladhor Saan	Unknown	21	3
+Kraznys mo Nakloz	Unknown	21	3
+Rattleshirt	Unknown	21	3
+Giant	Unknown	21	3
+Kraznys mo Nakloz	Unknown	23	3
+Kraznys mo Nakloz	Unknown	24	3
+Black Walder Rivers	Unknown	26	3
+Handmaid	Unknown	26	3
+Walder Frey	Unknown	29	3
+Black Walder Rivers	Unknown	29	3
+Walder Frey	Unknown	30	3
+Balon Greyjoy	Unknown	30	3
+Night's Watchman	Unknown	30	3
+Polliver	Unknown	31	3
+Thenn Warg	Unknown	31	3
+Handmaid	Unknown	31	3
+Thenn Warg	Unknown	33	3
+Meereen Slave Master	Unknown	33	3
+Meereen Slave Master	Unknown	33	3
+Meereen Slave Master	Unknown	33	3
+Mossador	Unknown	34	3
+Salladhor Saan	Unknown	36	3
+Lhara	Unknown	36	3
+Thenn Warg	Unknown	39	3
+Giant	Unknown	39	3
+Giant	Unknown	40	3
+Mossador	Unknown	41	3
+Mossador	Unknown	42	3
+Septa Unella	Unknown	47	3
+Septa Unella	Unknown	48	3
+Night's Watchman	Unknown	48	3
+Lhara	Unknown	48	3
+Lhara	Unknown	49	3
+Lannister Guard	Unknown	49	3
+Lannister Guard	Unknown	49	3
+Septa Unella	Unknown	50	3
+Illyrio Mopatis	Unknown	1	2
+Old Nan	Unknown	3	2
+King's Landing Whore	Unknown	3	2
+Old Nan	Unknown	4	2
+Hugh of the Vale	Unknown	4	2
+Tobho Mott	Unknown	4	2
+Knight of House Bracken	Unknown	4	2
+Illyrio Mopatis	Unknown	5	2
+Mord	Unknown	5	2
+Hugh of the Vale	Unknown	5	2
+Vardis Egen	Unknown	5	2
+Knight of House Bracken	Unknown	5	2
+King's Landing Whore	Unknown	5	2
+Mord	Unknown	6	2
+Vardis Egen	Unknown	6	2
+Little Bird	Unknown	7	2
+Shagga	Unknown	8	2
+Stark Guard	Unknown	8	2
+Shagga	Unknown	9	2
+Bronn (credit only)	Unknown	10	2
+Stark Guard	Unknown	10	2
+Tobho Mott	Unknown	11	2
+Male Prostitute	Unknown	11	2
+Male Prostitute	Unknown	12	2
+Tickler	Unknown	14	2
+Hallyne	Unknown	15	2
+Quaithe	Unknown	15	2
+Tickler	Unknown	15	2
+Winterfell Farmer	Unknown	15	2
+Farlen	Unknown	16	2
+Drennan	Unknown	16	2
+Lannister Captain	Unknown	16	2
+Jacks	Unknown	16	2
+Quent	Unknown	16	2
+Quaithe	Unknown	17	2
+Winterfell Farmer	Unknown	17	2
+Farlen	Unknown	17	2
+Drennan	Unknown	17	2
+Jacks	Unknown	17	2
+Stark Guard (as David Sheenan)	Unknown	17	2
+Quent	Unknown	17	2
+Stark Guard (as David Sheenan)	Unknown	18	2
+Lannister Captain	Unknown	18	2
+Hallyne	Unknown	19	2
+Septon	Unknown	20	2
+Unsullied	Unknown	21	2
+Skinner	Unknown	22	2
+Skinner	Unknown	23	2
+Greizhen mo Ullhor (as Clifford Barry)	Unknown	23	2
+Kayla	Unknown	23	2
+Martyn Lannister	Unknown	23	2
+Willem Lannister	Unknown	23	2
+Greizhen mo Ullhor (as Clifford Barry)	Unknown	24	2
+Martyn Lannister	Unknown	25	2
+Willem Lannister	Unknown	25	2
+Lothar Frey	Unknown	26	2
+Lothar Frey	Unknown	29	2
+Septon	Unknown	29	2
+Old Man	Unknown	29	2
+Kayla	Unknown	32	2
+Mole's Town Whore	Unknown	33	2
+Mole's Town Madam	Unknown	33	2
+Night's King	Unknown	34	2
+Morag	Unknown	34	2
+Unsullied	Unknown	34	2
+Bronn (credit only)	Unknown	35	2
+Morag	Unknown	35	2
+Donnel Waynwood	Unknown	35	2
+Tycho Nestoris	Unknown	36	2
+Yohn Royce	Unknown	38	2
+Mole's Town Whore	Unknown	38	2
+Donnel Waynwood	Unknown	38	2
+Mole's Town Madam	Unknown	38	2
+Little Bird	Unknown	38	2
+Ternesio Terys	Unknown	40	2
+Yohn Royce	Unknown	41	2
+Meereenese Prostitute	Unknown	41	2
+Ternesio Terys	Unknown	42	2
+Old Woman	Unknown	43	2
+Meereenese Prostitute	Unknown	44	2
+Old Woman	Unknown	45	2
+Old Man	Unknown	45	2
+Malko	Unknown	46	2
+Ghita	Unknown	46	2
+Yezzan zo Qaggaz	Unknown	47	2
+Malko	Unknown	47	2
+Yezzan zo Qaggaz	Unknown	48	2
+Night's King	Unknown	48	2
+Wun Wun	Unknown	48	2
+Thin Man	Unknown	48	2
+Tycho Nestoris	Unknown	49	2
+Wun Wun	Unknown	49	2
+Thin Man	Unknown	49	2
+Ghita	Unknown	50	2
+Will	Unknown	1	1
+Jon Arryn	Unknown	1	1
+Waymar Royce	Unknown	1	1
+Gared	Unknown	1	1
+Pentoshi Servant	Unknown	1	1
+Wildling Girl	Unknown	1	1
+Jhiqui	Unknown	2	1
+Mycah	Unknown	2	1
+Catspaw	Unknown	2	1
+Lannister Guardsman	Unknown	2	1
+Drunk Patron (as Paul Portelli)	Unknown	3	1
+Goldcloak #1 (as Nickovich Sammut)	Unknown	3	1
+Goldcloak #2	Unknown	3	1
+Knight of House Frey	Unknown	4	1
+Knight of House Whent	Unknown	4	1
+Masha Heddie	Unknown	4	1
+Mhaegen (as Antonia Christopher)	Unknown	5	1
+Dothraki Old Crone (as Amira Ghazella)	Unknown	6	1
+Riverlands Petitioner	Unknown	6	1
+Stiv	Unknown	6	1
+Knight of the Vale (as Patrick Rocks)	Unknown	6	1
+Older Knight of the Vale	Unknown	6	1
+Night's Watch Deserter (as Barry O'Connor)	Unknown	6	1
+Beric Dondarrion (as David Scott)	Unknown	6	1
+Wine Merchant	Unknown	7	1
+Varly	Unknown	7	1
+Jaremy Rykker	Unknown	7	1
+Night's Watch Officer	Unknown	7	1
+Tomard	Unknown	7	1
+Lannister Messenger	Unknown	8	1
+Steward of House Stark	Unknown	8	1
+Night's Watch Brother	Unknown	8	1
+Lannister Scout	Unknown	8	1
+Stable Boy	Unknown	8	1
+King's Landing Baker	Unknown	9	1
+Stevron Frey	Unknown	9	1
+King's Landing Urchin	Unknown	9	1
+Eddard 'Ned' Stark (credit only)	Unknown	10	1
+Rickard Karstark (as Steven Blount)	Unknown	10	1
+Jonos Bracken	Unknown	10	1
+Leo Lefford (as Vincent McCabe)	Unknown	10	1
+Addam Marbrand (as BJ Hogg)	Unknown	10	1
+Maester Cressen	Unknown	11	1
+Northern Lord	Unknown	11	1
+Mhaegen	Unknown	11	1
+Chella (as Natalie Lee)	Unknown	11	1
+Lord Portan	Unknown	11	1
+Melee Herald	Unknown	11	1
+Captain's Daughter	Unknown	12	1
+Lordsport Dockhand	Unknown	12	1
+Customer	Unknown	12	1
+Rodrik Cassel (credit only)	Unknown	13	1
+Drowned Priest	Unknown	13	1
+Timett	Unknown	13	1
+Gerald	Unknown	13	1
+Baratheon Guard	Unknown	13	1
+Rennick	Unknown	14	1
+Old Woman Prisoner	Unknown	14	1
+Wounded Lannister	Unknown	14	1
+Tortured Prisoner	Unknown	14	1
+Osha (as Natalie Tena)	Unknown	15	1
+Protestor (as Edward Tudor Pole)	Unknown	15	1
+Reginald Lannister (as Patrick Fitzsymons)	Unknown	15	1
+Quartheen Woman	Unknown	15	1
+Theon's Master of Hounds	Unknown	17	1
+Torrhen Karstark	Unknown	17	1
+Karstark Soldier #1	Unknown	17	1
+Karstark Soldier #2	Unknown	17	1
+Stark Messenger	Unknown	18	1
+Lannister Torturer	Unknown	18	1
+Lannister Soldier	Unknown	18	1
+Singing Lannister Soldier	Unknown	19	1
+Imry Florent (as Gordan Mahon)	Unknown	19	1
+Mandon Moore	Unknown	19	1
+Baratheon Officer	Unknown	19	1
+Captain of the Archers	Unknown	19	1
+Jaqen's New Face	Unknown	20	1
+Stark Soldier	Unknown	20	1
+Soldier Tom (as Christopher Reilly)	Unknown	20	1
+Rhaego	Unknown	20	1
+Mirelle	Unknown	21	1
+Boat Commander	Unknown	21	1
+Margaery's Handmaid	Unknown	21	1
+Orphan #1	Unknown	21	1
+Warlock	Unknown	21	1
+Riverrun Traveler	Unknown	22	1
+Tailor	Unknown	22	1
+Server	Unknown	22	1
+Bolton Soldier	Unknown	23	1
+Craster's Younger Wife	Unknown	23	1
+Genna	Unknown	23	1
+Tortured Slave	Unknown	23	1
+Young Tyrell Lady	Unknown	24	1
+Bolton Man	Unknown	24	1
+Sorcerer	Unknown	24	1
+Young Captive	Unknown	25	1
+Razdal mo Eraz	Unknown	27	1
+Steelshanks Walton	Unknown	27	1
+Violet	Unknown	27	1
+The Bear	Unknown	27	1
+Mero	Unknown	28	1
+Prendahl na Ghezn	Unknown	28	1
+Yunkai Whore	Unknown	28	1
+Roslin Frey	Unknown	29	1
+Frey Guard	Unknown	29	1
+Merry Frey	Unknown	29	1
+Hog Farmer	Unknown	29	1
+Joyeuse Erenford	Unknown	29	1
+Wendel Manderly (as Oddie Bradell)	Unknown	29	1
+Drummer	Unknown	29	1
+Frey Soldier #1	Unknown	30	1
+Frey Soldier #2	Unknown	30	1
+Fruit Vendor (as Alexander Mileman)	Unknown	30	1
+Desmond Crakehall	Unknown	30	1
+Morgan	Unknown	31	1
+Morgan's Friend	Unknown	31	1
+Innkeeper	Unknown	31	1
+Lord Blackmont	Unknown	31	1
+Ser Endrew Tarth	Unknown	31	1
+Valyrian Sword Smith	Unknown	31	1
+Innkeeper's Daughter	Unknown	31	1
+Tansy	Unknown	32	1
+Axell Florent	Unknown	32	1
+Musician (as Jón Þór Birgisson)	Unknown	32	1
+Musician (as Orri Páll Dýrason)	Unknown	32	1
+Musician	Unknown	32	1
+King Joffrey Baratheon Dwarf	Unknown	32	1
+King Stannis Baratheon Dwarf (as Max Laird)	Unknown	32	1
+King Renly Baratheon Dwarf	Unknown	32	1
+King Robb Stark Dwarf	Unknown	32	1
+King Balon Greyjoy Dwarf	Unknown	32	1
+Brienne of Tarth (credit only)	Unknown	33	1
+Lord Varys (credit only)	Unknown	33	1
+Farmer Hamlet	Unknown	33	1
+Guymon	Unknown	33	1
+Guymon's Mother	Unknown	33	1
+Night's Watch Ranger (as Patrick Molloy)	Unknown	33	1
+Farmer's Daughter (as Trixiebelle Harrowell)	Unknown	33	1
+Meereen Slave	Unknown	33	1
+Slave Master	Unknown	34	1
+Elder Meereen Slave	Unknown	34	1
+Valyrian Slave	Unknown	34	1
+Goat Herd	Unknown	36	1
+First Mate	Unknown	36	1
+Whore (as Samantha McEwan)	Unknown	36	1
+Ironborn	Unknown	36	1
+Bolton Guard	Unknown	36	1
+Manservant	Unknown	36	1
+Goat Herd Boy	Unknown	36	1
+Dying Man	Unknown	37	1
+Prisoner	Unknown	37	1
+Anya Waynwood	Unknown	38	1
+Ralf Kenning	Unknown	38	1
+Adrack Humble	Unknown	38	1
+Vance Corbray	Unknown	38	1
+Kegs	Unknown	38	1
+Black Jack Bulwer	Unknown	38	1
+Mully	Unknown	38	1
+Mag the Mighty	Unknown	39	1
+Three-Eyed Raven	Unknown	40	1
+Fennesz	Unknown	40	1
+Leaf	Unknown	40	1
+Grieving Father	Unknown	40	1
+Child of the Forest	Unknown	40	1
+Maggy	Unknown	41	1
+Young Cersei Lannister	Unknown	41	1
+Melara Hetherspoon	Unknown	41	1
+White Rat	Unknown	41	1
+Strong Sam Stone	Unknown	41	1
+Maester Hellweg	Unknown	41	1
+Lollys Stokeworth	Unknown	42	1
+Faceless Man	Unknown	42	1
+Denys Mallister (as JJ Murphy)	Unknown	42	1
+Street Tough #1 (as Thomas Fava)	Unknown	42	1
+Mallister Supporter	Unknown	42	1
+Eyrie Guard	Unknown	42	1
+Street Tough #2	Unknown	42	1
+Inn Waitress	Unknown	42	1
+Son of Harpy	Unknown	42	1
+Dwarf Hunter #1	Unknown	42	1
+Dwarf Hunter #2	Unknown	42	1
+Red Priestess	Unknown	43	1
+Brothel Guard	Unknown	43	1
+Despondent Man	Unknown	43	1
+Sellsword (as Matt McArdel)	Unknown	43	1
+Sellsword	Unknown	43	1
+Clea	Unknown	43	1
+Beggar	Unknown	43	1
+The Mother of Dragons	Unknown	43	1
+The Warrior	Unknown	43	1
+The Smith	Unknown	43	1
+The Mother	Unknown	43	1
+The Maiden	Unknown	43	1
+The Crone	Unknown	43	1
+Merchant Captain	Unknown	44	1
+Lead Dornish Guard	Unknown	44	1
+Faith Militant #1	Unknown	44	1
+Faith Militant #2	Unknown	44	1
+Meereenese Fighter	Unknown	44	1
+Lead Kingsguard	Unknown	44	1
+Foreign Merchant	Unknown	44	1
+Brothel Customer	Unknown	44	1
+Master Eaton	Unknown	45	1
+Great Master #1 (as Ratib Asghar)	Unknown	45	1
+Elboneno	Unknown	45	1
+Great Master #4	Unknown	45	1
+Great Master #5	Unknown	45	1
+Great Master #6	Unknown	45	1
+Great Master #7	Unknown	45	1
+Slaver	Unknown	46	1
+Joss	Unknown	46	1
+Derek	Unknown	47	1
+Brant	Unknown	47	1
+Karsi	Unknown	48	1
+Loboda	Unknown	48	1
+Lord of Bones	Unknown	48	1
+Wildling Elder	Unknown	48	1
+Braavosi Captain	Unknown	48	1
+Pit Announcer	Unknown	49	1
+Braavosi Madam	Unknown	49	1
+Young Braavosi	Unknown	49	1
+Pit Fighter	Unknown	49	1
+Brusco	Unknown	49	1
+Sailor	Unknown	49	1
+Young Baratheon Soldier	Unknown	49	1
+Anara	Unknown	49	1
+Brea	Unknown	49	1
+Braavosi Prostitute #1	Unknown	49	1
+Braavosi Prostitute #4	Unknown	49	1
+Baratheon General	Unknown	50	1
+Septa #1	Unknown	50	1
+Septa #2	Unknown	50	1
+Child Braavosi Prostitute #2	Unknown	50	1
+Child Braavosi Prostitute #1	Unknown	50	1
+Young Baratheon Soldier #2	Unknown	50	1
+Young Baratheon Soldier #1	Unknown	50	1
+Gordy	Unknown	50	1
+Simpson	Unknown	50	1
+Woodcutter (as Ralph R. Clemente)	Unknown	50	1
+Drunkard	Unknown	50	1
+Half Naked Woman	Unknown	50	1
+Naked Man	Unknown	50	1
+Cersei Body Double	Unknown	50	1
