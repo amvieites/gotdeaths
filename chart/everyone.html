@@ -5,14 +5,18 @@
 	<script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
 	<style>
-		body {margin: 0 0 0 0;}
-
+		body {margin: 0 0 0 0;background-color:#CADDCF;text-align: center;color:#333C4E;}
+		h1 {color: #FF7335;}
+		#column {
+			background-color: white;
+			display: inline-block
+		}
 		svg .square {
-		  fill: orange;
+		  fill: #1BBE9E;
 		}
 
 		svg .square:hover {
-		  fill: black;
+		  fill: #333C4E;
 		}
 
 		.axis text {
@@ -27,20 +31,24 @@
 		}
 		.season-line {
 			stroke-width: 0.3px;
-			stroke: red;
+			stroke: #1BBE9E;
 		}
 		.tooltip {
-			background-color: orange;
-		  font: 10px sans-serif;
+			background-color: #333C4E;
+		  width: 15px;
 		}
 		.tooltip text {
 		}
 	</style>
 </head>
 <body>
-<svg class="chart"></svg>
+<div id="column">
+	<h1>Game of Thrones: Character appearances</h1>	
+	<svg class="chart"></svg>
+</div>
+Source: http://www.imdb.com/title/tt0944947/epcast
 <script>
-	var margin = {top: 50, right: 100, bottom: 50, left: 200},
+	var margin = {top: 0, right: 100, bottom: 50, left: 200},
     width = 1024 - margin.left - margin.right,
     height = 4750 - margin.top - margin.bottom;
 
@@ -61,15 +69,15 @@
 	    .attr("height", height + margin.top + margin.bottom)
 	  .append("g")
 	    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-	    function positioning() { 
-	    	return [this.getBBox().height+5, -this.getBBox().x]; 
-	    }
-var tip = d3.tip(positioning)
-  .attr('class', 'd3-tip')
-  .offset(positioning)
-  .html(function(d) {
-    return "<div class=\"tooltip\">&nbsp;</div>";
-  });
+	function positioning() { 
+		return [this.getBBox().height, -this.getBBox().x-5]; 
+	}
+	var tip = d3.tip(positioning)
+	  .attr('class', 'd3-tip')
+	  .offset(positioning)
+	  .html(function(d) {
+	    return "<div class=\"tooltip\" style=\"height:" + (y.rangeBand() - 4) + "px\">&nbsp;&nbsp;&nbsp;&nbsp;</div>";
+	  });
 
 	d3.tsv("everyone.tsv", type, function(data) {
 			x = x.domain(data.map(function (d){ return d.episode; }).sort(
